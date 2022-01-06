@@ -52,13 +52,14 @@ body{
 .videopage{
     height: 100%;
     width:100%;
-    background-color: rgb(192, 186, 186);
+    background-color: rgb(102, 65, 65);
 }
 .video{
-    height: 500px;
+    height: 400px;
     width: 100%;
-    padding: 100px 0 0 30px;
-    margin: 0 auto;
+    margin-top: 100px;
+    padding-left:600px; ;
+    position: absolute;
 }
 .intor{
     width: fit-content;
@@ -68,12 +69,14 @@ body{
     font-size: 16px;
     background-color: rgb(157, 204, 248);
     border-radius: 5%;
-    margin: 0 auto;
+    position: relative;
+    top: 500px;
+    left: 570px;
 }
 .KW{
-    height: auto;
+    height: 100%;
     width: 100%;
-    background-color: #f5f1ee;
+    background:#f5f1ee ;
     font-size: 36px;
     position: relative;
 }
@@ -81,11 +84,10 @@ body{
     height:200px ;
     width: 100%;
     position: relative;
-    top: 20px;
 }
 .icon1{
     position: absolute;
-    top: 28px;
+    top: 50px;
     left: 38px;
     color: #f8cca0;
     z-index: 3;
@@ -123,11 +125,10 @@ body{
     font-family: Microsoft JhengHei;
 }
 .KW1{
-    height: 1080px;
-    width: 1920px;
+    height: 100%;
+    width: 100% ;
     background:#f5f1ee ;
     position: relative;
-    top: 50px;
 }
 .meat{
     height: 300px;
@@ -140,6 +141,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
+    left:50px;
 }
 .fresh{
     height: 300px;
@@ -152,6 +154,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
+    left: 50px;
 }
 .food{
     height: 300px;
@@ -164,6 +167,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
+    left: 50px;
 }
 .snack{
     height: 300px;
@@ -176,6 +180,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
+    left: 50px;
 }
 .word1{
     text-align: center;
@@ -278,20 +283,21 @@ body{
     width: 1300px;
     border: 3px solid violet;
     position: absolute;
-    left: 315px;
+    left: 15px;
     top: 500px;
 }
 .KW2{
     height: auto;
-    width: 1920px;
+    width: 100%;
     background-color: #f5f1ee;
+    position: relative;
+    top: 900px;
 }
 .money-title{
     height: 280px;;
     width: 800px;
-    position: absolute;
+    position: relative;
     border: 5px solid blue ;
-    left: 50px;
 }
 .Q{
     height: 260px;
@@ -337,15 +343,13 @@ body{
     z-index: 2;
 }
 .article1{
-    height: 300px;
-    width: 1500px;
-    border: 3px solid black;
-    position: relative;
+    height: fit-content;
+    width: 100%;
+    position: absolute;
     top: 350px;
-    left: 200px;
 }
 .article1>h1{
-    font-size: 40px;
+    font-size: 36px;
     font-weight: bold;
     font-family: sans-serif;
 }
@@ -354,54 +358,91 @@ body{
     font-family: sans-serif;
 }
 .part1{
-    border: 3px solid black;
     height: fit-content;
-    width: 650px;
     font-size: 24px;
     position: relative;
     top: 50px;
+    left: 100px;
 }
 .part2{
-    border: 3px solid black;
     height: fit-content;
-    width: 650px;
     font-size: 24px;
     position: relative;
-    top: -309px;
-    left: 750px;
+    top: -320px;
+    left: 770px;
 }
 .article2{
-    height: 300px;
-    width: 1500px;
-    border: 3px solid black;
-    position: relative;
-    top: 1100px;
-    left: 200px;
+    height: fit-content;
+    width: 100%;
+    position: absolute;
+    top: 1290px;
+}
+.article2 >h2,h3,h4{
+    font-size: 26px;
+    font-family: sans-serif;
 }
 .article3{
-    height: 650px;
-    width: 1500px;
-    border: 3px solid black;
-    position: relative;
-    top: 1650px;
-    left: 200px;
+    height: fit-content;
+    width: 100%;
+    position: absolute;
+    top: 2100px;
 }
 .article3 >h2,h3,h4{
     font-size: 26px;
     font-family: sans-serif;
 }
 .article4{
-    height: 650px;
-    width: 1500px;
-    border: 3px solid black;
-    position: relative;
-    top: 1750px;
-    left: 200px;
+    height: fit-content;
+    width: 100%;
+    position: absolute;
+    top: 2700px;
+}
+.article4 >h2,h3,h4{
+    font-size: 26px;
+    font-family: sans-serif;
+}
+.article5{
+    height: fit-content;
+    width: 100%;
+    position: absolute;
+    top: 3300px;
+}
+.article5 >h2,h3{
+    font-size: 26px;
+    font-family: sans-serif;
+}
+.article6{
+    height: fit-content;
+    width: 100%;
+    position: absolute;
+    top: 4200px;
+}
+.article6 >h2,h3{
+    font-size: 26px;
+    font-family: sans-serif;
 }
 .top{
     float: left;
+    z-index: 7;
+    position: fixed;
+    left: 50px;
 }
-
+.People{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(226, 226, 226);
+    position: relative;
+    top: 5800px;
+    border: 1px solid red;
+}
+nav{
+    height: fit-content;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(247, 226, 226);
+    opacity: 95%;
+    z-index: 5;
+}
 .menu-btn{
     font-size: 36px;
     font-weight: bold;
@@ -472,7 +513,7 @@ table{
     border:2px solid black ;
     position: relative;
     border-collapse: collapse;
-    left: 400px;
+    left: 300px;
 }
 table th{
     border: 1px solid black;
@@ -486,7 +527,8 @@ table td{
 }
 td:hover {
     background-color: #aad9e2;
-  }
+}
+
 @media screen and(max-height:450px) {
     .overlay a{font-size: 20px;}
     .overlay.closebtn{
