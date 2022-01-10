@@ -1,7 +1,7 @@
 @import url("reset.css");
 @font-face{
     font-family:jp;
-    src: url(jf-openhuninn-1.tff) format("truetype"),
+    src: url(/jf-openhuninn-1.1.ttf) format("truetype"),
 }
 *{
     box-sizing: border-box;
@@ -40,7 +40,7 @@ body{
     height:200px ;
     width: 450px;
     position: relative;
-    top: 50px;
+    top: 80px;
     margin-left: 20px;
 }
 .icon1{
@@ -162,7 +162,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 40px;
-    left: 40px;
+    left: 60px;
 }
 .word3{
     text-align: center;
@@ -171,7 +171,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 40px;
-    left: 40px;
+    left: 60px;
 }
 .word4{
     text-align: center;
@@ -180,7 +180,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 40px;
-    left: 40px;
+    left: 60px;
 }
 .circle1{
     height: 262px;
