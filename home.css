@@ -1,7 +1,7 @@
 @import url("reset.css");
 @font-face{
     font-family: jp ;
-    src: url(/jf-openhuninn-1.1.tff);
+    src: url(/jf-openhuninn-1.1.ttf);
 }
 *{
     box-sizing: border-box;
