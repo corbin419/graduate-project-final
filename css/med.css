@@ -1,14 +1,14 @@
 @import url("reset.css");
 @font-face{
     font-family:jp;
-    src: url(/jf-openhuninn-1.1.ttf) format("truetype"),
+    src: url(/jf-openhuninn-1.1.ttf) ;
 }
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    /*border: 1px solid red;*/ 
+    /*border: 1px solid red;*/
 }
 img{
     display: block;
@@ -30,17 +30,28 @@ body{
     left: 50px;
 }
 .KW{
+    position: relative;
+    display: flex;
     height: 100%;
     width: 100%;
     background:#f5f1ee ;
     font-size: 36px;
+}
+.box1{
     position: relative;
+    flex: auto;
+    top: 30vh;
+    height: 45vh;
+    width: 40vw;
+    margin-top: 10vh;
+    margin-left: -20vw;
+    margin-right: 20px;
 }
 .med-title{
     height:200px ;
     width: 450px;
     position: relative;
-    top: 80px;
+    top: 100px;
     margin-left: 20px;
 }
 .icon1{
@@ -81,20 +92,7 @@ body{
     font-weight: bold;
     font-family: jp;
 }
-.KW1{
-    height: 500px;
-    width: 1600px;
-    background:#f5f1ee ;
-    position: relative;
-    top: 70px;
-}
-.box1{
-    height: 500px;
-    width: 1600px;
-    margin-left: 200px;
-    margin-top: 100px;
-}
-.meat{
+.med1{
     height: 300px;
     width: 260px;
     border-radius: 30%;
@@ -105,9 +103,8 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left:50px;
 }
-.fresh{
+.med2{
     height: 300px;
     width: 260px;
     border-radius: 30%;
@@ -118,9 +115,8 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 50px;
 }
-.food{
+.med3{
     height: 300px;
     width: 260px;
     border-radius: 30%;
@@ -131,9 +127,8 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 50px;
 }
-.snack{
+.med4{
     height: 300px;
     width: 260px;
     border-radius: 30%;
@@ -144,7 +139,6 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 50px;
 }
 .word1{
     text-align: center;

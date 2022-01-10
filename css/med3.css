@@ -1,7 +1,7 @@
 @import url("reset.css");
 @font-face{
     font-family:jp;
-    src: url(/jf-openhuninn-1.1.ttf) format("truetype");
+    src: url(/jf-openhuninn-1.1.ttf);
 }
 *{
     box-sizing: border-box;
@@ -47,6 +47,12 @@ body{
 .part1{
     position: relative;
     margin-top: 50px;
+}
+a{
+    color: rgb(95, 93, 93);
+}
+a:hover{
+    color: rgb(8, 83, 247);
 }
 .part2{
     position: relative;

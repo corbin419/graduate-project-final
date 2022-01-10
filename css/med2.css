@@ -66,13 +66,6 @@ body{
     position: relative;
     margin-top: 50px;
 }
-.part5{
-    position: relative;
-    margin-top: 50px;
-}
-.part5>h4{
-    font-size: 26px;
-}
 .button{
     position: absolute;
     height: 80px;
@@ -83,7 +76,7 @@ body{
     text-align: center;
     font-family: jp;
     font-weight: bold;
-    background-color: rgb(192, 151, 112);
+    background-color: rosybrown;
     margin-left: 60vw;
     margin-top: 50px;
 }
@@ -91,7 +84,4 @@ body{
     transform: scale(1.1);
     color: saddlebrown;
     transition: 0.5s;
-}
-.button > a:hover{
-    color: rgb(237, 239, 243);
 }

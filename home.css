@@ -141,26 +141,6 @@ nav{
     position: fixed;
     left: 40px;
 }
-table{
-    border:2px solid black ;
-    position: relative;
-    border-collapse: collapse;
-    left: 300px;
-}
-table th{
-    border: 1px solid black;
-    padding: 30px;
-    font-size: 24px;
-}
-table td{
-    border: 1px solid black;
-    padding: 30px;
-    color: black;
-}
-td:hover {
-    background-color: #aad9e2;
-}
-
 @media screen and(max-height:450px) {
     .overlay a{font-size: 20px;}
     .overlay.closebtn{
