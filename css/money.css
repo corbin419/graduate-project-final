@@ -24,6 +24,7 @@ body{
     background-color: #f5f1ee;
 }
 .KW2{
+    display: flex;
     height: auto;
     width: 100%;
     background-color: #f5f1ee;
@@ -31,8 +32,8 @@ body{
     top: 70px;
 }
 .money-title{
-    height: 280px;
-    width: 800px;
+    height: 30vh;
+    width: 60vw;
     position: relative;
     margin-left: 20px;
 }
@@ -80,12 +81,12 @@ body{
     z-index: 2;
 }
 .article1{
-    height: 1000px;
-    width: 100%;
     position: relative;
+    height: auto;
+    width: 90vw;
     background-color: #f5f1ee;
     padding-left: 40px ;
-    top: 20px;
+    top: 30vh;
 }
 .article1>h1{
     font-size: 36px;

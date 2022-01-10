@@ -83,7 +83,8 @@ body{
     font-family: jp;
     font-weight: bold;
     background-color: rosybrown;
-    margin-left: 1600px;
+    margin-left: 70vw;
+    margin-top: 50px;
 }
 .button:hover{
     transform: scale(1.1);
