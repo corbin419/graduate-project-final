@@ -27,6 +27,7 @@ body{
     height: 1000px;
     width: 1600px;
     margin-left: 50px;
+
 }
 .article{
     height: 1200px;
@@ -34,6 +35,7 @@ body{
     position: absolute;
     background-color: #f5f1ee;
     font-family: jp;
+    top: 50px;
 }
 .article>h1{
     font-size: 36px;
