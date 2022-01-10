@@ -1,7 +1,7 @@
 @import url("reset.css");
 @font-face{
     font-family:jp;
-    src: url(jf-openhuninn-1.tff) format("truetype"),
+    src: url(/jf-openhuninn-1.1.ttf);
 }
 *{
     box-sizing: border-box;
@@ -86,8 +86,8 @@ body{
 .fword{
     text-align: center;
     margin-top: 40px;
-    margin-left: 40px;
-    font-size: 60px ;
+    margin-left: 60px;
+    font-size: 70px ;
     font-weight: bold;
     font-family: jp;
 }
