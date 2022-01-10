@@ -30,11 +30,22 @@ body{
     left: 50px;
 }
 .KW{
+    position: relative;
+    display: flex;
     height: 100%;
     width: 100%;
     background:#f5f1ee ;
     font-size: 36px;
+}
+.box1{
     position: relative;
+    flex: auto;
+    top: 20vh;
+    height: 50vh;
+    width: 80vw;
+    margin-top: 10vh;
+    margin-left: -20vw;
+    border: 1px solid red;
 }
 .food-title{
     height:200px ;
@@ -81,19 +92,6 @@ body{
     font-weight: bold;
     font-family: jp;
 }
-.KW1{
-    height: 500px;
-    width: 1600px;
-    background:#f5f1ee ;
-    position: relative;
-    top: 70px;
-}
-.box1{
-    height: 500px;
-    width: 1600px;
-    margin-left: 200px;
-    margin-top: 100px;
-}
 .meat{
     height: 300px;
     width: 260px;
@@ -101,11 +99,9 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left:50px;
 }
 .fresh{
     height: 300px;
@@ -114,11 +110,10 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 50px;
+    left: 20px;
 }
 .food{
     height: 300px;
@@ -127,11 +122,10 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 50px;
+    left: 40px;
 }
 .snack{
     height: 300px;
@@ -140,11 +134,10 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 50px;
+    left: 60px;
 }
 .word1{
     text-align: center;
