@@ -33,7 +33,7 @@ body{
 }
 .money-title{
     height: 30vh;
-    width: 60vw;
+    width: 70vw;
     position: relative;
     margin-left: 20px;
 }
@@ -81,11 +81,11 @@ body{
     z-index: 2;
 }
 .article1{
-    position: relative;
+    position: absolute;
     height: auto;
-    width: 90vw;
+    flex: auto;
+    width: 60vw;
     background-color: #f5f1ee;
-    padding-left: 40px ;
     top: 30vh;
 }
 .article1>h1{
@@ -98,8 +98,8 @@ body{
     font-family: jp;
 }
 .sheet{
-    height: 430px;
-    width: 1600px;
+    height: 50vh;
+    width: 80vw;
     position: absolute;
     margin-left: 50px;
 }
@@ -109,7 +109,6 @@ body{
     font-size: 24px;
     font-weight: bold;
     position: relative;
-    left: 100px;
 }
 .part2{
     height: fit-content;
@@ -117,7 +116,7 @@ body{
     font-size: 24px;
     font-weight: bold;
     position: relative;
-    left: 690px;
+    left: 30vw;
     font-family: jp;
 }
 .part3{
@@ -126,7 +125,7 @@ body{
     font-size: 24px;
     font-weight: bold;
     position: relative;
-    left: 1200px;
+    left: 55vw;
     top: -360px;
     font-family: jp;
 }
