@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    /*border: 1px solid red;*/
+    border: 1px solid red;
 }
 img{
     display: block;
@@ -27,11 +27,10 @@ body{
     height: 1000px;
     width: 1600px;
     margin-left: 50px;
-
 }
 .article{
-    height: 1200px;
-    width: 100%;
+    height: 80vh;
+    width: 50vw;
     position: absolute;
     background-color: #f5f1ee;
     font-family: jp;
@@ -71,6 +70,14 @@ body{
 }
 .part5>h4{
     font-size: 26px;
+}
+.part6{
+    position: relative;
+    margin-top: 50px;
+}
+.part7{
+    position: relative;
+    margin-top: 50px;
 }
 .button{
     position: absolute;
