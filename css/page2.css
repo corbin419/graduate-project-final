@@ -40,12 +40,11 @@ body{
 .box1{
     position: relative;
     flex: auto;
-    top: 20vh;
-    height: 50vh;
-    width: 80vw;
+    top: 30vh;
+    height: 45vh;
+    width: 40vw;
     margin-top: 10vh;
-    margin-left: -20vw;
-    border: 1px solid red;
+    margin-left: -10vw;
 }
 .food-title{
     height:200px ;
@@ -113,7 +112,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 20px;
+    left: 60px;
 }
 .food{
     height: 300px;
@@ -125,7 +124,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 40px;
+    left: 120px;
 }
 .snack{
     height: 300px;
@@ -137,7 +136,7 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
-    left: 60px;
+    left: 180px;
 }
 .word1{
     text-align: center;
