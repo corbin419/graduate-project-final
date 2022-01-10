@@ -32,7 +32,7 @@ body{
 }
 .videopage{
     height: 100%;
-    width:100%;
+    width:100vw;
     background-color: #f5f1ee;
 }
 .video{
@@ -41,7 +41,7 @@ body{
     top: 100px;
     position: relative;
     top: 250px;
-    padding-left: 200px;
+    padding-left: 100px;
 }
 .intor{
     width: 420px;
@@ -54,7 +54,7 @@ body{
     border-radius: 20px;;
     position: relative;
     float: left;
-    margin-left: 1250px;
+    margin-left: 1050px;
     margin-top: -40px;
 }
 nav{
