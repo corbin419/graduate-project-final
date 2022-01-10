@@ -41,7 +41,7 @@ body{
 .video{
     flex: auto;
     top: 30vh;
-    left: 5vw;
+    left: 1vw;
     width: 30vw;
     height: 30vw;
     position: relative;
@@ -50,7 +50,7 @@ body{
     flex: auto;
     width: 1vw;
     height: 20vw;
-    top: 300px;
+    top: 40vh;
     text-align: center;
     font-family: jp;
     font-size: 1.6vw;
