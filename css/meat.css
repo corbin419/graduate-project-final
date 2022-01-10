@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    /*border: 1px solid red;*/
+
 }
 img{
     display: block;
@@ -34,6 +34,7 @@ body{
     position: absolute;
     background-color: #f5f1ee;
     font-family: jp;
+    top: 50px;
 }
 .article>h1{
     font-size: 36px;
