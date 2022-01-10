@@ -31,31 +31,34 @@ body{
     background-color: #f5f1ee;
 }
 .videopage{
+    border: 1px solid red;
+    position: relative;
+    display: flex;
     height: 100%;
-    width:100vw;
+    width:100%;
     background-color: #f5f1ee;
 }
 .video{
-    height: 400px;
-    width: 100%;
-    top: 100px;
+    flex: auto;
+    top: 30vh;
+    left: 5vw;
+    width: 30vw;
+    height: 30vw;
     position: relative;
-    top: 250px;
-    padding-left: 100px;
 }
 .intor{
-    width: 420px;
-    height: 310px;
+    flex: auto;
+    width: 1vw;
+    height: 20vw;
+    top: 300px;
     text-align: center;
     font-family: jp;
-    font-size: 24px;
+    font-size: 1.6vw;
     font-weight: bold;
     background-color: rgb(157, 204, 248);
-    border-radius: 20px;;
+    border-radius: 20px;
     position: relative;
-    float: left;
-    margin-left: 1050px;
-    margin-top: -40px;
+    margin-left: 70px;
 }
 nav{
     height: fit-content;
