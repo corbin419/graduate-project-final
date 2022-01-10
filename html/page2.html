@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charest="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1" >
+        <title>浪與不浪</title>
+        <link href="/css/page2.css" rel="stylesheet" type="text/css">
+        <a href="/html/page2.html"></a>
+        <script src="https://kit.fontawesome.com/26192343f6.js" crossorigin="anonymous"></script>
+        <link href="java">
+    </head>
+    <header>
+        <nav>
+            <button class="menu-btn" onclick="openNav()"><span>&#9776</span></button>
+            <div id="menu" class="overlay">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                <button class="closebtn" onclick="closeNav()">&times;</button>
+                <div class="overlay-content">    
+                    <ul>
+                    <li><a href="/index.html">浪與不浪</a></li>
+                    <li><a  href="/html/page2.html">狗狗小知識<i class="fa fa-angle-double-down"></i></a>
+                        <ul class="test">
+                            <li><a href="#KW1">狗狗飲食</a></li>
+                            <li><a href="/html/money.html">狗狗開銷</a></li>
+                            <li><a href="/html/med.html">狗狗醫療</a></li>
+                            <li><a href="/html/mutal.html">狗狗心理</a></li>
+                            <li><a href="/html/train.html">狗狗訓練</a></li>
+                            <li><a href="/html/fun.html">狗狗遊憩</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#about">關於我們</a></li>
+                    </ul>
+                </div>
+            </div> 
+        </nav>
+        <div class="top"><img src="/logo1.png"></div>
+        <script>
+            function openNav(){
+                document.getElementById("menu").style.width = "100%";
+            }
+            function closeNav() {
+                document.getElementById("menu").style.width = "0%";
+            }
+        </script>
+    </header>
+    <body>
+        <div class="KW" id="KW">             
+            <div class="food-title" >
+                <div class="circle">
+                    <div class="circleTest"></div>
+                    <div class="icon1">
+                        <i class="fas fa-utensils fa-4x"></i>
+                    </div>
+                    <div class="ret"><div class="fword">飲食</div></div>
+                </div> 
+            </div>
+            <div class="KW1" id="KW1">
+                <div class="box1">
+                    <div class="meat">
+                        <div class="circle1">
+                            <div class="photo1"><a href="/html/meat.html"><img src="/1x/meat.png"></a></div>
+                        </div>
+                        <div class="word1"><br>『生食』的好處</br>＆該注意的什麼？</div>
+                    </div>
+                    <div class="fresh">
+                        <div class="circle2">
+                            <div class="photo2"><a href="/html/fresh.html"><img src="/1x/fresh.png"></a></div>
+                        </div>
+                        <div class="word2"><br>『鮮食』的好處</br>＆需考量四重點！</div>
+                    </div>
+                    <div class="food">
+                        <div class="circle3">
+                            <div class="photo3"><a href="/html/food.html"><img src="/1x/food.png"></a></div>
+                        </div>
+                        <div class="word3"><br>『飼料』的優點</br>＆挑選優質飼料</div>
+                    </div>
+                    <div class="snack">
+                        <div class="circle4">
+                            <div class="photo4"><a href="/html/snack.html"><img src="/1x/snack.png"></a></div>
+                        </div>
+                        <div class="word4"><br>『零食』挑選撇步</br>＆注意事項</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </div>
