@@ -251,7 +251,7 @@ footer{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 45vw;
-    margin-top:35vh;
+    margin-top:30vh;
 }
 .button:hover{
     transform: scale(1.1);
