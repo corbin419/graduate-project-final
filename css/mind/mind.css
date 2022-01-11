@@ -49,7 +49,7 @@ body{
 .box1{
     position: relative;
     flex: auto;
-    height: 45vh;
+    height: 42vh;
     width: 60vw;
 }
 .box2{
@@ -58,6 +58,7 @@ body{
     height: 45vh;
     width: 40vw;
     margin-left: 10vw;
+    margin-top: 1vw;
 }
 .med-title{
     height:200px ;
