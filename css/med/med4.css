@@ -23,31 +23,93 @@ body{
     scroll-behavior: smooth;
     background-color: #f5f1ee;
 }
-.content{
-    height: 60vh;
+.money-title{
+    height: 30vh;
     width: 70vw;
-    margin-left: 50px;
-    font-size: 10em;
+    position: relative;
+    margin-left: 1vw;
+}
+.Q{
+    height: 240px;
+    width: 220px;
+    border: 30px solid #c7b299;
+    border-radius: 180px;
+    position: relative;
+    z-index: 3;
+}
+.line{
+    height: 100px;
+    width: 1px;
+    border: 18px solid #c7b299;
+    border-radius: 10px;
+    transform: rotate(-50deg);
+    position: relative;
+    left: 135px;
+    top: -70px;
+    z-index: 1;
+}
+.ret2{
+    height: 100px;
+    width: 600px;
+    background-color: #d8cabc;
+    border-radius: 90px;
+    position: relative ;
+    top: -160px;
+    left: 130px;
+    z-index: 0;
+}
+.mword{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: jp;
+    padding-top: 25px;
+    padding-left: 55px;
+}
+.photo5{
+    position: relative;
+    left: -15px;
+    top: -8px;
+    z-index: 2;
+}
+.content{
+    position: relative;
+    height: 100%;
+    width: 80vw;
+    margin-top: 30vh;
+    left: -40vw;
+    margin-left: 5vw;
 }
 .article{
     height: 100%;
     display: flex;
-    width: 70vw;
+    width: 80vw;
     position: absolute;
     background-color: #f5f1ee;
     font-family: jp;
     top: 50px;
     left: 10vw;
 }
-.article>h1{
-    font-size: 36px;
-}
 .article>h2{
     font-size: 24px;    
 }
 .part1{
     position: relative;
-    margin-top: 50px;
+    height: 20vh;
+    width: 70vw;
+    margin-top: 10vh;
+}
+.part2{
+    position: relative;
+    height: 20vh;
+    width: 70vw;
+    margin-top: 10vh;
+}
+.part3{
+    position: relative;
+    height: 20vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 a{
     color: rgb(95, 93, 93);
@@ -67,18 +129,18 @@ a:hover{
 }
 .part3{
     position: relative;
-    margin-top: 50px;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
-.part4{
+.photo1{
     position: relative;
-    margin-top: 50px;
 }
-.part5{
+.word1{
     position: relative;
-    margin-top: 50px;
-}
-.part5>h4{
-    font-size: 26px;
+    margin-top: -15vh;
+    margin-left: 35vw;
+    font-size: 14px;
 }
 .button{
     position: absolute;
@@ -92,7 +154,7 @@ a:hover{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 60vw;
-    margin-top: 50px;
+    margin-top: 850px;
 }
 .button:hover{
     transform: scale(1.1);
