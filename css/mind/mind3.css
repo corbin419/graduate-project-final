@@ -65,22 +65,22 @@ body{
     z-index: 1;
 }
 .ret2{
-    height: 150px;
-    width: 650px;
+    height: 90px;
+    width: 520px;
     background-color: #d8cabc;
     border-radius: 90px;
     position: relative ;
-    top: -190px;
-    left: 149px;
+    top: -160px;
+    left: 179px;
     z-index: 0;
 }
 .mword{
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     font-weight: bold;
     font-family: jp;
-    padding-top: 35px;
-    padding-left: 35px;
+    padding-top: 15px;
+    padding-left: 25px;
 }
 .photo5{
     position: relative;
@@ -112,13 +112,13 @@ a:hover{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 150px;
+    margin-top: 30vh;
 }
 .part3{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 250px;
+    margin-top: 40vh;
 }
 .picture{
     position: relative;
@@ -128,25 +128,25 @@ a:hover{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 300px;
+    margin-top: 40vh;
 }
 .part5{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 340px;
+    margin-top: 60vh;
 }
 .part6{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 300px;
+    margin-top: 40vh;
 }
 .part7{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 250px;
+    margin-top: 40vh;
 }
 .part7>h1{
     font-size: 46px;
@@ -155,20 +155,20 @@ a:hover{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 400px;
+    margin-top: 60vh;
 }
 .part9{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 320px;
+    margin-top: 40vh;
 }
 footer{
     background-color: rgb(209, 209, 207);
     height: 10vh;
     width: 100%;
     position: absolute;
-    top: 450vh;
+    top: 530vh;
 }
 .data{
     text-align: center;
