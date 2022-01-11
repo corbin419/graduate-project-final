@@ -26,8 +26,9 @@ body{
 .top{
     float: left;
     z-index: 7;
+    margin-top: 5px;
     position: fixed;
-    left: 50px;
+    left: 40px;
 }
 .KW{
     position: relative;
