@@ -55,7 +55,7 @@ body{
 }
 .line{
     height: 100px;
-    width: 0;
+    width: 1px;
     border: 18px solid #c7b299;
     border-radius: 10px;
     transform: rotate(-50deg);
