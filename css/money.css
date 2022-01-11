@@ -82,9 +82,9 @@ body{
 }
 .article1{
     position: absolute;
-    height: auto;
+    height: 40vh;
     flex: auto;
-    width: 60vw;
+    width: 70vw;
     background-color: #f5f1ee;
     font-family: jp;
     top: 40vh;
@@ -99,37 +99,44 @@ body{
     font-size: 26px;
     font-family: jp;
 }
+.box11{
+    position: relative;
+    height: 25vh;
+    width: 80vw;
+}
 .sheet{
     height: 50vh;
-    width: 80vw;
+    width: 90vw;
     position: absolute;
-    margin-left: 50px;
+    display: flex;
 }
 .part1{
-    height: fit-content;
-    width: 400px;
+    height: 50vh;
+    width: 30vw;
     font-size: 24px;
     font-weight: bold;
     position: relative;
+    flex: auto;
 }
 .part2{
-    height: fit-content;
-    width: 400px;
+    height: 50vh;
+    width: 25vw;
     font-size: 24px;
     font-weight: bold;
     position: relative;
-    left: 30vw;
+    margin-left: 10px;
     font-family: jp;
+    flex: auto;
 }
 .part3{
-    height: fit-content;
-    width: 400px;
+    height: 50vh;
+    width: 25vw;
     font-size: 24px;
     font-weight: bold;
     position: relative;
-    left: 55vw;
-    top: -360px;
+    margin-left: 10px;
     font-family: jp;
+    flex: auto;
 }
 .article2{
     height: 680px;
