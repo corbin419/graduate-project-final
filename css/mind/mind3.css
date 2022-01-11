@@ -112,13 +112,13 @@ a:hover{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 10vh;
+    margin-top: 150px;
 }
 .part3{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 250px;
 }
 .picture{
     position: relative;
@@ -128,25 +128,25 @@ a:hover{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 300px;
 }
 .part5{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 340px;
 }
 .part6{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 300px;
 }
 .part7{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 250px;
 }
 .part7>h1{
     font-size: 46px;
@@ -155,20 +155,20 @@ a:hover{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 35vh;
+    margin-top: 400px;
 }
 .part9{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 320px;
 }
 footer{
     background-color: rgb(209, 209, 207);
     height: 10vh;
     width: 100%;
     position: absolute;
-    top: 380vh;
+    top: 450vh;
 }
 .data{
     text-align: center;
@@ -195,7 +195,7 @@ footer{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 45vw;
-    margin-top:31vh;
+    margin-top:25vh;
 }
 .button:hover{
     transform: scale(1.1);
