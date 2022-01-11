@@ -253,7 +253,7 @@ body{
 }
 
 nav{
-    height: fit-content;
+    height: 55px;
     position: fixed;
     background-color: #c3ae95;
     opacity: 95%;
