@@ -42,7 +42,7 @@ body{
     flex: auto;
     top: 30vh;
     height: 90vh;
-    width: 70vw;
+    width: 90vw;
     margin-top: 10vh;
     left: -20vw;
 }
@@ -50,7 +50,7 @@ body{
     position: relative;
     flex: auto;
     height: 42vh;
-    width: 60vw;
+    width: 70vw;
 }
 .box2{
     position: relative;
@@ -61,11 +61,11 @@ body{
     margin-top: 1vw;
 }
 .med-title{
-    height:200px ;
-    width: 450px;
+    height:40vh;
+    width: 50vw;
     position: relative;
-    top: 100px;
-    margin-left: 20px;
+    top: 8vh;
+    margin-left: 1vw;
 }
 .icon1{
     position: absolute;
