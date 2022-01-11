@@ -76,7 +76,7 @@ body{
     text-align: center;
     font-family: jp;
     font-weight: bold;
-    background-color: rosybrown;
+    background-color: rgb(192, 151, 112);
     margin-left: 60vw;
     margin-top: 50px;
 }
@@ -84,4 +84,10 @@ body{
     transform: scale(1.1);
     color: saddlebrown;
     transition: 0.5s;
+}
+.button > a:hover{
+    color: rgb(237, 239, 243);
+}
+a{
+    color: rgb(95, 93, 93);
 }

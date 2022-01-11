@@ -35,7 +35,6 @@ body{
     height: 60vh;
     width: 70vw;
     margin-left: 50px;
-
 }
 .top{
     float: left;
@@ -53,7 +52,7 @@ body{
     text-align: center;
     font-family: jp;
     font-weight: bold;
-    background-color: rosybrown;
+    background-color: rgb(192, 151, 112);
     margin-left: 65vw;
     margin-top:20vh;
 }
@@ -61,6 +60,12 @@ body{
     transform: scale(1.1);
     color: saddlebrown;
     transition: 0.5s;
+}
+.button > a:hover{
+    color: rgb(237, 239, 243);
+}
+a{
+    color: rgb(95, 93, 93);
 }
 @media screen and(max-height:450px) {
     .overlay a{font-size: 20px;}
