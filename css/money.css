@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    border: 1px solid red;*/  
+    /*border: 1px solid red;*/  
 }
 img{
     display: block;
@@ -29,7 +29,8 @@ body{
     width: 70vw;
     background-color: #f5f1ee;
     position: absolute;
-    left: 5vw;
+    left: 15vw;
+    top: 10vh;
 }
 .money-title{
     height: 30vh;
@@ -155,13 +156,36 @@ body{
     font-size: 26px;
     font-family: jp;
 }
+.sheet2{
+    font-family: jp;
+    left: 20vw;
+    font-size: 22px;
+    position: relative;
+}
+table{
+    border:2px solid black ;
+    position: relative;
+    border-collapse: collapse;
+}
+table th{
+    border: 1px solid black;
+    padding: 30px;
+    font-size: 24px;
+}
+table td{
+    border: 1px solid black;
+    padding: 30px;
+    color: black;
+}
+td:hover {
+    background-color: #aad9e2;
+}
 .article3{
     height: 530px;
     width: 100%;
     position: absolute;
-    top: 1750px;
+    top: 170vh;
     background-color: #f5f1ee;
-    padding-left: 40px ;
     left: 2vw;
 }
 .article3>h1{
@@ -177,7 +201,7 @@ body{
     height: 570px;
     width: 100%;
     position: absolute;
-    top: 2300px;
+    top: 225vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -194,7 +218,7 @@ body{
     height: 860px;
     width: 100%;
     position: absolute;
-    top: 2860px;
+    top: 280vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -208,10 +232,10 @@ body{
     font-family: jp;
 }
 .article6{
-    height: 400px;
+    height: 30vh;
     width: 100%;
     position: absolute;
-    top: 3730px;
+    top: 365vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -229,31 +253,6 @@ body{
     z-index: 7;
     position: fixed;
     left: 50px;
-}
-.sheet2{
-    font-family: jp;
-    font-size: 22px;
-    position: relative;
-    left: 20vw;
-}
-table{
-    border:2px solid black ;
-    position: relative;
-    border-collapse: collapse;
-    left: 300px;
-}
-table th{
-    border: 1px solid black;
-    padding: 30px;
-    font-size: 24px;
-}
-table td{
-    border: 1px solid black;
-    padding: 30px;
-    color: black;
-}
-td:hover {
-    background-color: #aad9e2;
 }
 .KW3{
     
