@@ -56,9 +56,16 @@ body{
 }
 .icon1{
     position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 35px;
+    left: 30px;
     color: #f8cca0;
+    z-index:3 ;
+}
+.icon2{
+    position: absolute;
+    top: 60px;
+    left: 65px;
+    color: #f8427f;
     z-index:3 ;
 }
 .circle{
