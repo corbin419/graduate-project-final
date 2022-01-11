@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    border: 1px solid red;*/
+    /*border: 1px solid red;*/
 }
 img{
     display: block;
@@ -44,7 +44,7 @@ body{
     height: 45vh;
     width: 50vw;
     margin-top: 10vh;
-    margin-left: -25vw;
+    margin-left: -27vw;
     margin-right: 20px;
 }
 .med-title{
