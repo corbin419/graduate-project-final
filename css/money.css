@@ -143,7 +143,7 @@ body{
     height: 80vh;
     width: 70vw;
     position: absolute;
-    top: 130vh;
+    top: 140vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -184,7 +184,7 @@ td:hover {
     height: 530px;
     width: 100%;
     position: absolute;
-    top: 190vh;
+    top: 200vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -201,7 +201,7 @@ td:hover {
     height: 570px;
     width: 100%;
     position: absolute;
-    top: 245vh;
+    top: 255vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -218,7 +218,7 @@ td:hover {
     height: 860px;
     width: 100%;
     position: absolute;
-    top: 300vh;
+    top: 310vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
@@ -235,7 +235,7 @@ td:hover {
     height: 30vh;
     width: 100%;
     position: absolute;
-    top: 385vh;
+    top: 395vh;
     background-color: #f5f1ee;
     left: 2vw;
 }
