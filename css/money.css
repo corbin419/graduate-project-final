@@ -86,6 +86,7 @@ body{
     flex: auto;
     width: 60vw;
     background-color: #f5f1ee;
+    font-family: jp;
     top: 40vh;
     left: 2vw;
 }
@@ -134,7 +135,7 @@ body{
     height: 680px;
     width: 100%;
     position: absolute;
-    top: 1000px;
+    top: 1100px;
     background-color: #f5f1ee;
     padding-left: 40px ;
 }
@@ -151,7 +152,7 @@ body{
     height: 530px;
     width: 100%;
     position: absolute;
-    top: 1650px;
+    top: 1750px;
     background-color: #f5f1ee;
     padding-left: 40px ;
 }
@@ -168,7 +169,7 @@ body{
     height: 570px;
     width: 100%;
     position: absolute;
-    top: 2200px;
+    top: 2300px;
     background-color: #f5f1ee;
     padding-left: 40px ;
 }
@@ -185,7 +186,7 @@ body{
     height: 860px;
     width: 100%;
     position: absolute;
-    top: 2760px;
+    top: 2860px;
     background-color: #f5f1ee;
     padding-left: 40px ;
 }
