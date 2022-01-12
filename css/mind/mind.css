@@ -42,8 +42,8 @@ body{
     position: relative;
     flex: auto;
     top: 30vh;
-    height: 90vh;
-    width: 90vw;
+    height: 100%;
+    width: 95vw;
     margin-top: 10vh;
     left: -20vw;
 }
@@ -52,14 +52,6 @@ body{
     flex: auto;
     height: 42vh;
     width: 70vw;
-}
-.box2{
-    position: relative;
-    flex: auto;
-    height: 45vh;
-    width: 40vw;
-    margin-left: 10vw;
-    margin-top: 1vw;
 }
 .med-title{
     height:40vh;
@@ -114,8 +106,20 @@ body{
     font-family: jp;
 }
 .med1{
-    height: 300px;
-    width: 260px;
+    height: 230px;
+    width: 230px;
+    border-radius: 30%;
+    border: 5px solid;
+    border-color: #afafaf;
+    float: left;
+    margin-left: 20px;
+    margin-top: 80px;
+    position: relative;
+    top: 30px;
+}
+.med2{
+    height: 230px;
+    width: 230px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
@@ -125,33 +129,21 @@ body{
     position: relative;
     top: 30px;
 }
-.med2{
-    height: 300px;
-    width: 260px;
-    border-radius: 30%;
-    border: 5px solid;
-    border-color: #afafaf;
-    float: left;
-    margin-left: 50px;
-    margin-top: 80px;
-    position: relative;
-    top: 30px;
-}
 .med3{
-    height: 300px;
-    width: 260px;
+    height: 230px;
+    width: 230px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 50px;
+    margin-left: 30px;
     margin-top: 80px;
     position: relative;
     top: 30px;
 }
 .med4{
-    height: 300px;
-    width: 260px;
+    height: 230px;
+    width: 230px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
@@ -162,65 +154,65 @@ body{
     top: 30px;
 }
 .med5{
-    height: 300px;
-    width: 260px;
+    height: 230px;
+    width: 230px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 50px;
+    margin-left: 30px;
     margin-top: 80px;
     position: relative;
     top: 30px;
 }
 .word1{
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     color: royalblue;
     font-family: jp;
     position: absolute;
-    bottom: 45px;
-    left: 30px;
+    bottom: 35px;
+    left: 25px;
 }
 .word2{
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     color: royalblue;
     font-family: jp;
     position: absolute;
-    bottom: 60px;
-    left: 35px;
+    bottom: 35px;
+    left: 25px;
 }
 .word3{
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     color: royalblue;
     font-family: jp;
     position: absolute;
-    bottom: 60px;
+    bottom: 35px;
     left: 25px;
 }
 .word4{
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     color: royalblue;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 55px;
+    bottom: 35px;
+    left: 25px;
 }
 .word5{
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     color: royalblue;
     font-family: jp;
     position: absolute;
-    bottom: 55px;
+    bottom: 35px;
     left: 25px;
 }
 .circle1{
-    height: 262px;
-    width: 262px;
+    height: 220px;
+    width: 220px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -230,7 +222,7 @@ body{
 }
 .photo1{
     position: relative;
-    left: -5px;
+    left: -3px;
     top: -3px;
 }
 .photo1:hover{
@@ -238,8 +230,8 @@ body{
     transition: 0.5s;
 }
 .circle2{
-    height: 262px;
-    width: 262px;
+    height: 220px;
+    width: 220px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -257,8 +249,8 @@ body{
     transition: 0.5s;
 }
 .circle3{
-    height: 262px;
-    width: 262px;
+    height: 220px;
+    width: 220px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -276,8 +268,8 @@ body{
     transition: 0.5s;
 }
 .circle4{
-    height: 262px;
-    width: 262px;
+    height: 220px;
+    width: 220px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -295,8 +287,8 @@ body{
     transition: 0.5s;
 }
 .circle5{
-    height: 262px;
-    width: 262px;
+    height: 220px;
+    width: 220px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
