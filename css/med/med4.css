@@ -251,6 +251,21 @@ a:hover{
     margin-left: 35vw;
     font-size: 8px;
 }
+.part11{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo9{
+    position: relative;
+}
+.word9{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
 .button{
     position: absolute;
     height: 80px;
