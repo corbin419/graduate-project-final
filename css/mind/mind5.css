@@ -48,14 +48,56 @@ body{
     height: 70vh;
     width: 70vw;
     top: 4vw;
-    margin-top:25vw;
+    margin-top:25vh;
 }
 .article2{
     position: absolute;
     height: 70vh;
     width: 70vw;
-    margin-top: 85vw;
+    margin-top: 270vh;
     font-size: 14px;
+}
+.part0{
+    position: relative;
+    margin-top: 15vh;
+}
+.part1{
+    position: relative;
+}
+.part2{
+    position: relative;
+    margin-top: 15vh;
+}
+.part3{
+    position: relative;
+    margin-top: 15vh;
+}
+.part4{
+    position: relative;
+    margin-top: 15vh;
+}
+.part5{
+    position: relative;
+    margin-top: 15vh;
+}
+.part6{
+    position: relative;
+}
+.part7{
+    position: relative;
+    margin-top: 10vh;
+}
+.part8{
+    position: relative;
+    margin-top: 10vh;
+}
+.part9{
+    position: relative;
+    margin-top: 10vh;
+}
+.part10{
+    position: relative;
+    margin-top: 10vh;
 }
 .top{
     float: left;
@@ -76,7 +118,7 @@ body{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 60vw;
-    margin-top: 125vw ;
+    margin-top: 395vh ;
 }
 .button:hover{
     transform: scale(1.1);
