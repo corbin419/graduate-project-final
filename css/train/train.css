@@ -51,7 +51,7 @@ body{
     position: relative;
     flex: auto;
     height: 42vh;
-    width: 70vw;
+    width: 80vw;
 }
 .med-title{
     height:40vh;
@@ -112,7 +112,6 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
