@@ -281,6 +281,10 @@ a:hover{
     margin-left: 35vw;
     font-size: 8px;
 }
+.part13{
+    position: relative;
+    margin-top: 10vh;
+}
 .button{
     position: absolute;
     height: 80px;
