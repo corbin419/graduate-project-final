@@ -45,7 +45,7 @@ body{
     height: 40vh;
     width: 80vw;
     margin-top: 10vh;
-    left: -5vw;
+    left: -10vw;
 }
 .box1{
     position: relative;
@@ -123,7 +123,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
@@ -135,7 +135,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
@@ -147,7 +147,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
@@ -159,7 +159,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
