@@ -8,6 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
+    font-family: jp;
     /*border: 1px solid red;*/
 }
 img{
@@ -74,7 +75,7 @@ body{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 60vw;
-    margin-top: 180vw ;
+    margin-top: 330vh ;
 }
 .button:hover{
     transform: scale(1.1);
