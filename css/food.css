@@ -66,6 +66,14 @@ body{
     position: relative;
     margin-top: 50px;
 }
+.WDJ{
+    width: 34VW;
+}
+.WDJ:hover{
+    box-shadow: 10px 10px 5px rgba(0, 0, 0,0.8);
+    transform: scale(1.005);
+    transition: 0.5s;
+}
 .part5{
     position: relative;
     margin-top: 50px;
