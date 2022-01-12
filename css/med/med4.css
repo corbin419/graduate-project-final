@@ -293,7 +293,7 @@ a:hover{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 60vw;
-    margin-top: 850px;
+    margin-top: 20px;
 }
 .button:hover{
     transform: scale(1.1);
