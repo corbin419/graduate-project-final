@@ -110,6 +110,7 @@ a:hover{
     position: relative;
     height: 44vh;
     width: 70vw;
+    margin-top: 15vh;
 }
 .word2{
     position: relative;
@@ -118,7 +119,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -37vh;
+    margin-top: -57vh;
 }
 .word2-1{
     position: relative;
@@ -127,7 +128,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -37vh;
+    margin-top: -57vh;
 }
 .word2-2{
     position: relative;
@@ -135,13 +136,13 @@ a:hover{
     width: 70vw;
     font-size: 24px;
     font-weight: bold;
-    margin-top: 10vh;
+    margin-top: 30vh;
 }
 .part3{
     position: relative;
     height: 130vh;
     width: 70vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .photo3{
     position: relative;
@@ -155,7 +156,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -37vh;
+    margin-top: -45vh;
 }
 .word3-1{
     position: relative;
@@ -163,7 +164,7 @@ a:hover{
     width: 65vw;
     font-size: 24px;
     font-weight: bold;
-    margin-top: 3vh;
+    margin-top: 10vh;
     margin-left: 1vw;
 }
 .photo3-1{
@@ -179,7 +180,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -30vh;
+    margin-top: -40vh;
 }
 .photo3-2{
     position: relative;
@@ -194,7 +195,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -30vh;
+    margin-top: -40vh;
 }
 .top{
     float: left;
@@ -215,7 +216,7 @@ a:hover{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 45vw;
-    margin-top:55vh;
+    margin-top:155vh;
 }
 .button:hover{
     transform: scale(1.1);
