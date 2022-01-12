@@ -26,10 +26,10 @@ body{
 }
 .video{
     flex: auto;
-    top: 3vh;
+    top: 5vh;
     left: 15vw;
-    width: 40vw;
-    height: 20vw;
+    width: 50vw;
+    height: 30vw;
     position: relative;
 }
 .content{
@@ -58,7 +58,6 @@ body{
 }
 .part0{
     position: relative;
-    margin-top: 15vh;
 }
 .part1{
     position: relative;
