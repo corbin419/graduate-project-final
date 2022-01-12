@@ -11,7 +11,7 @@
     /*border: 1px solid red;*/  
 }
 img{
-    display: block;
+    display: inline-block;
 }
 html{
     width: 100%;
@@ -23,6 +23,7 @@ body{
     scroll-behavior: smooth;
     background-color: #f5f1ee;
     font-family: jp;
+    display: inline-block;
 }
 .article{
     display: flex;
@@ -50,6 +51,16 @@ a:hover{
     width: 70vw;
     position: relative;
     margin-left: 1vw;
+}
+.part0{
+    position: relative;
+    margin-top: 15vh;
+    font-size: 32px
+}
+.part4{
+    position: relative;
+    margin-top: 15vh;
+    font-size: 32px;
 }
 .part1{
     position: relative;
@@ -97,15 +108,6 @@ a:hover{
     height: 44vh;
     width: 70vw;
 }
-.word2{
-    position: relative;
-    height: 30vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -37vh;
-}
 .photo2-1{
     position: relative;
     height: 44vh;
@@ -119,7 +121,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -57vh;
+    margin-top: -50vh;
 }
 .word2-1{
     position: relative;
@@ -128,7 +130,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -57vh;
+    margin-top: -50vh;
 }
 .word2-2{
     position: relative;
@@ -142,7 +144,7 @@ a:hover{
     position: relative;
     height: 130vh;
     width: 70vw;
-    margin-top: 25vh;
+    margin-top: 35vh;
 }
 .photo3{
     position: relative;
@@ -197,6 +199,146 @@ a:hover{
     margin-left: 37vw;
     margin-top: -40vh;
 }
+.part4{
+    position: relative;
+    margin-top: 75vh;
+}
+.part5{
+    position: relative;
+    height: 130vh;
+    width: 70vw;
+    margin-top: 35vh;
+}
+.photo5-1{
+    position: relative;
+    height: 50vh;
+    width: 70vw;
+}
+.word5-1{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -45vh;
+}
+.photo5-2{
+    position: relative;
+    height: 44vh;
+    width: 70vw;
+    margin-top: 10vh;
+}
+.word5-2{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -40vh;
+}
+.word5-3{
+    position: relative;
+    height: 35vh;
+    width: 70vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 15vh;
+}
+.part6{
+    position: relative;
+    height: 130vh;
+    width: 70vw;
+    margin-top: 55vh;
+}
+.photo6-1{
+    position: relative;
+    height: 50vh;
+    width: 70vw;
+}
+.word6-1{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -45vh;
+}
+.photo6-2{
+    position: relative;
+    height: 44vh;
+    width: 70vw;
+    margin-top: 10vh;
+}
+.word6-2{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -40vh;
+}
+.word6-3{
+    position: relative;
+    height: 35vh;
+    width: 70vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 15vh;
+}
+.part7{
+    position: relative;
+    height: 130vh;
+    width: 70vw;
+    margin-top: 55vh;
+}
+.photo7{
+    position: relative;
+    height: 50vh;
+    width: 70vw;
+}
+.word7{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -45vh;
+}
+.photo7-1{
+    position: relative;
+    height: 50vh;
+    width: 70vw;
+    margin-top: 25vh;
+}
+.word7-2{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -35vh;
+}
+.photo7-2{
+    position: relative;
+    height: 44vh;
+    width: 70vw;
+    margin-top: 5vh;
+}
+.word7-3{
+    position: relative;
+    height: 35vh;
+    width: 30vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 37vw;
+    margin-top: -35vh;
+}
 .top{
     float: left;
     z-index: 7;
@@ -216,7 +358,7 @@ a:hover{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 45vw;
-    margin-top:155vh;
+    margin-top:95vh;
 }
 .button:hover{
     transform: scale(1.1);
