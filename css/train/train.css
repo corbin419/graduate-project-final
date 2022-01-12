@@ -172,7 +172,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 35px;
-    left: 25px;
+    left: 35px;
 }
 .word2{
     text-align: center;
@@ -189,8 +189,8 @@ body{
     color: royalblue;
     font-family: jp;
     position: absolute;
-    bottom: 35px;
-    left: 25px;
+    bottom: 45px;
+    left: 55px;
 }
 .word4{
     text-align: center;
@@ -208,7 +208,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 35px;
-    left: 25px;
+    left: 45px;
 }
 .circle1{
     height: 220px;
@@ -279,7 +279,7 @@ body{
 }
 .photo4{
     position: relative;
-    left: -2px;
+    left: -4px;
     top: -3px;
 }
 .photo4:hover{
