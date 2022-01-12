@@ -69,12 +69,13 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -37vh;
+    margin-top: -40vh;
 }
 .photo1-1{
     position: relative;
     height: 44vh;
     width: 70vw;
+    margin-top: 15vh;
 }
 .word1-1{
     position: relative;
@@ -83,7 +84,7 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -37vh;
+    margin-top: -40vh;
 }
 .part2{
     position: relative;
