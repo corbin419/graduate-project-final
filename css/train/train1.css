@@ -98,13 +98,13 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part3{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 35vh;
 }
 .part4{
     position: relative;
@@ -116,13 +116,13 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 25vh;
+    margin-top: 35vh;
 }
 .part6{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part7{
     position: relative;
@@ -134,7 +134,7 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 20vh;
+    margin-top: 30vh;
 }
 .part8>h1{
     font-size: 46px;
@@ -150,37 +150,37 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 75vh;
+    margin-top: 95vh;
 }
 .part10{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part11{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part12{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part13{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part14{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 15vh;
+    margin-top: 25vh;
 }
 .part15{
     position: relative;
@@ -192,20 +192,7 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 5vh;
-}
-footer{
-    background-color: rgb(209, 209, 207);
-    height: 10vh;
-    width: 100%;
-    position: absolute;
-    top: 550vh;
-}
-.data{
-    text-align: center;
-    padding-top: 4vh;
-    font-size: 0.8em;
-    color: #3b3b3b
+    margin-top: 10vh;
 }
 .top{
     float: left;
