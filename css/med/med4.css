@@ -105,23 +105,13 @@ body{
     width: 70vw;
     margin-top: 10vh;
 }
-.part3{
-    position: relative;
-    height: 20vh;
-    width: 70vw;
-    margin-top: 15vh;
-}
 a{
     color: rgb(95, 93, 93);
 }
 a:hover{
     color: rgb(8, 83, 247);
 }
-.part2{
-    position: relative;
-    margin-top: 50px;
-}
-.part2>h1,h2,h3{
+.part2>h1,h2{
     font-size: 24px;
 }
 .part2>h4{
@@ -140,7 +130,126 @@ a:hover{
     position: relative;
     margin-top: -15vh;
     margin-left: 35vw;
-    font-size: 14px;
+    font-size: 8px;
+}
+.part4{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo2{
+    position: relative;
+}
+.word2{
+    position: relative;
+    margin-top: -15vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
+.part5{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo3{
+    position: relative;
+}
+.word3{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
+.part6{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo4{
+    position: relative;
+}
+.word4{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
+.part7{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo5{
+    position: relative;
+}
+.word5{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
+.part8{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo6{
+    position: relative;
+}
+.word6{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
+.part9{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo7{
+    position: relative;
+}
+.word7{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
+}
+.part10{
+    position: relative;
+    height: 28vh;
+    width: 70vw;
+    margin-top: 15vh;
+}
+.photo8{
+    position: relative;
+}
+.photo88{
+    position: absolute;
+    margin-top: -27vh;
+    height: 10vh;
+    width: 20vw;
+}
+.photo8-1{
+    position: absolute;
+    margin-left: 39vw;
+}
+.photo8-2{
+    position: absolute;
+    margin-left: 54vw;
+}
+.word8{
+    position: relative;
+    margin-top: -13vh;
+    margin-left: 35vw;
+    font-size: 8px;
 }
 .button{
     position: absolute;
