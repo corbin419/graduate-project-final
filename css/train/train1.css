@@ -186,7 +186,7 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 10vh;
+    margin-top: 15vh;
 }
 .part16{
     position: relative;
@@ -213,7 +213,7 @@ body{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 45vw;
-    margin-top:40vh;
+    margin-top:50vh;
 }
 .button:hover{
     transform: scale(1.1);
