@@ -130,15 +130,16 @@ body{
     width: 60vw;
     margin-top: 5vh;
 }
+.part7>h1{
+    font-size: 46px;
+}
 .part8{
     position: relative;
     height: 10vh;
     width: 60vw;
     margin-top: 30vh;
 }
-.part8>h1{
-    font-size: 46px;
-}
+
 .video{
     flex: auto;
     width: 50vw;
@@ -150,7 +151,7 @@ body{
     position: relative;
     height: 10vh;
     width: 60vw;
-    margin-top: 95vh;
+    margin-top: 25vh;
 }
 .part10{
     position: relative;
@@ -187,12 +188,6 @@ body{
     height: 10vh;
     width: 60vw;
     margin-top: 15vh;
-}
-.part16{
-    position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 10vh;
 }
 .top{
     float: left;
