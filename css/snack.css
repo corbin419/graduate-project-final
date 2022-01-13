@@ -22,6 +22,7 @@ body{
     width: 100%;
     scroll-behavior: smooth;
     background-color: #f5f1ee;
+    display: inline-block;
 }
 .content{
     height: 60vh;

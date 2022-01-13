@@ -141,39 +141,43 @@ body{
 }
 .word1{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    bottom: 45px;
+    left: 35px;
 }
 .word2{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 60px;
+    bottom: 45px;
+    left: 65px;
 }
 .word3{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 60px;
+    bottom: 45px;
+    left: 65px;
 }
 .word4{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 60px;
+    bottom: 45px;
+    left: 65px;
 }
 .circle1{
     height: 262px;

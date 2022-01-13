@@ -46,7 +46,7 @@ body{
     height: 45vh;
     width: 40vw;
     margin-top: 20vh;
-    margin-left: -32vw;
+    margin-left: -20vw;
 }
 .food-title{
     height:250px;
@@ -104,39 +104,43 @@ body{
 }
 .word1{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    bottom: 35px;
+    left: 25px;
 }
 .word2{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    bottom: 35px;
+    left: 25px;
 }
 .word3{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    bottom: 35px;
+    left: 25px;
 }
 .word4{
     text-align: center;
-    font-size: 22px;
-    color: royalblue;
+    font-size: 23px;
+    color: #533816;
+    font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    bottom: 35px;
+    left: 25px;
 }
 .circle1{
     height: 262px;

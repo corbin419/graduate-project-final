@@ -28,6 +28,9 @@ body{
     width: 70vw;
     margin-left: 50px;
 }
+.content>h2{
+    font-size: 46px;
+}
 .article{
     height: 100%;
     display: flex;

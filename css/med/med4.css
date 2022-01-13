@@ -128,9 +128,11 @@ a:hover{
 }
 .word1{
     position: relative;
-    margin-top: -15vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -20vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part4{
     position: relative;
@@ -143,9 +145,11 @@ a:hover{
 }
 .word2{
     position: relative;
-    margin-top: -15vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -25vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part5{
     position: relative;
@@ -158,9 +162,11 @@ a:hover{
 }
 .word3{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -30vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part6{
     position: relative;
@@ -173,9 +179,11 @@ a:hover{
 }
 .word4{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -25vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part7{
     position: relative;
@@ -188,9 +196,11 @@ a:hover{
 }
 .word5{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -30vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part8{
     position: relative;
@@ -203,9 +213,11 @@ a:hover{
 }
 .word6{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -33vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part9{
     position: relative;
@@ -218,9 +230,11 @@ a:hover{
 }
 .word7{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -30vh;
+    margin-left: 39vw;
+    font-size: 12px;
 }
 .part10{
     position: relative;
@@ -230,12 +244,6 @@ a:hover{
 }
 .photo8{
     position: relative;
-}
-.photo88{
-    position: absolute;
-    margin-top: -27vh;
-    height: 10vh;
-    width: 20vw;
 }
 .photo8-1{
     position: absolute;
@@ -247,9 +255,11 @@ a:hover{
 }
 .word8{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -30vh;
+    margin-left: 39vw;
+    font-size: 12px;
 }
 .part11{
     position: relative;
@@ -262,9 +272,11 @@ a:hover{
 }
 .word9{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -30vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part12{
     position: relative;
@@ -277,9 +289,11 @@ a:hover{
 }
 .word10{
     position: relative;
-    margin-top: -13vh;
-    margin-left: 35vw;
-    font-size: 8px;
+    height: 10vh;
+    width: 30vw;
+    margin-top: -25vh;
+    margin-left: 39vw;
+    font-size: 14px;
 }
 .part13{
     position: relative;
