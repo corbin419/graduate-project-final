@@ -89,7 +89,7 @@ body{
     position: relative;
     background-color: #f5f1ee;
     margin-left: 3vw;
-    margin-top: 5vh;
+    margin-top: 15vh;
 }
 .article1>h1{
     font-size: 36px;
@@ -146,7 +146,7 @@ body{
     position: relative;
     background-color: #f5f1ee;
     margin-left: 3vw;
-    margin-top: 15vh;
+    margin-top: 20vh;
 }
 .article2>h1{
     font-size: 36px;
@@ -186,7 +186,7 @@ td:hover {
     position: relative;
     background-color: #f5f1ee;
     margin-left: 3vw;
-    margin-top: 5vh;
+    margin-top: 20vh;
 }
 .article3>h1{
     font-size: 36px;
@@ -203,7 +203,7 @@ td:hover {
     position: relative;
     background-color: #f5f1ee;
     margin-left: 3vw;
-    margin-top: 15vh;
+    margin-top: 20vh;
 }
 .article4>h1{
     font-size: 36px;
@@ -220,7 +220,7 @@ td:hover {
     position: relative;
     background-color: #f5f1ee;
     margin-left: 3vw;
-    margin-top: 15vh;
+    margin-top: 20vh;
 }
 .article5>h1{
     font-size: 36px;
@@ -237,7 +237,7 @@ td:hover {
     position: relative;
     background-color: #f5f1ee;
     margin-left: 3vw;
-    margin-top: 15vh;
+    margin-top: 20vh;
 }
 .article6>h1{
     font-size: 36px;
@@ -254,15 +254,6 @@ td:hover {
     margin-top: 5px;
     position: fixed;
     left: 40px;
-}
-.KW3{
-    
-    height: 100%;
-    width: 100% ;
-    background:#f5f1ee ;
-    position: relative;
-    top: 3150px;
-    border: 1px solid red;
 }
 nav{
     height: 55px;

@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    /*border: 1px solid red;*/
+    border: 1px solid red;*/
 }
 img{
     display: block;
@@ -31,55 +31,27 @@ body{
     position: fixed;
     left: 40px;
 }
-.KW{
-    position: absolute;
-    display: flex;
-    height: 100%;
-    width: 90vw;
-    background:#f5f1ee ;
-    font-size: 36px;
-}
-.KW1{
-    position: relative;
-    flex: auto;
-    top: 30vh;
-    height: 60vh;
-    width: 90vw;
-}
 .box1{
     position: relative;
     flex: auto;
-    height: 50vh;
+    height: 90vh;
     width: 85vw;
-    margin-top: 5vh;
-    margin-left: 2vw;
+    margin-top: 10vh;
+    margin-left: 10vw;
 }
-.ret{
-    width: 350px;
-    height: 165px;
-    border-radius: 75px;
-    background-color: #f8cca0;
-    position: absolute;
-    top: 20px;
-    left: 90px;
-    z-index: 1;
-}
-.fword{
-    text-align: center;
-    margin-top: 40px;
-    margin-left: 40px;
-    font-size: 60px ;
-    font-weight: bold;
-    font-family: jp;
+.member1{
+    position: relative;
+    height: 40vh;
+    width: 40vw;
 }
 .med1{
     height: 260px;
-    width: 260px;
-    border-radius: 30%;
+    width: 300px;
+    border-radius: 20%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
+    margin-left: 10vw;
     margin-top: 80px;
     position: relative;
     top: 30px;
@@ -121,14 +93,16 @@ body{
     top: 30px;
 }
 .word1{
+    position: relative;
+    height: 10vh;
+    width: 25vw;
     text-align: center;
     font-size: 23px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
+    margin-top: 15vh;
+    margin-left: ;
 }
 .word2{
     text-align: center;
