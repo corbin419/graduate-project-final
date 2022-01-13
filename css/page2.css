@@ -40,13 +40,13 @@ body{
     font-size: 36px;
 }
 .box1{
-    position: relative;
+    position:absolute;
     flex: auto;
     top: 30vh;
     height: 45vh;
-    width: 40vw;
-    margin-top: 20vh;
-    margin-left: -20vw;
+    width: 85vw;
+    margin-left: 8vw;
+    margin-top: 10vh;
 }
 .food-title{
     height:250px;
@@ -110,7 +110,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 35px;
-    left: 25px;
+    left: 35px;
 }
 .word2{
     text-align: center;
@@ -120,7 +120,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 35px;
-    left: 25px;
+    left: 35px;
 }
 .word3{
     text-align: center;
@@ -130,7 +130,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 35px;
-    left: 25px;
+    left: 45px;
 }
 .word4{
     text-align: center;
@@ -140,7 +140,7 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 35px;
-    left: 25px;
+    left: 35px;
 }
 .circle1{
     height: 262px;
