@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     -webkit-text-size-adjust: none;
-    border: 1px solid red;*/
+    /*border: 1px solid red;*/
 }
 img{
     display: block;
@@ -34,19 +34,46 @@ body{
 .box1{
     position: relative;
     flex: auto;
-    height: 90vh;
+    height: 40vh;
     width: 85vw;
     margin-top: 10vh;
     margin-left: 10vw;
 }
 .member1{
-    position: relative;
+    position: absolute;
     height: 40vh;
     width: 40vw;
 }
+.member2{
+    position: absolute;
+    height: 40vh;
+    width: 40vw;
+    float: left;
+    left: 40vw;
+}
+.box2{
+    position: relative;
+    flex: auto;
+    height: 40vh;
+    width: 85vw;
+    margin-top: 10vh;
+    margin-left: 10vw;
+}
+.member3{
+    position: absolute;
+    height: 40vh;
+    width: 40vw;
+}
+.member4{
+    position: absolute;
+    height: 40vh;
+    width: 40vw;
+    float: left;
+    left: 40vw;
+}
 .med1{
     height: 260px;
-    width: 300px;
+    width: 315px;
     border-radius: 20%;
     border: 5px solid;
     border-color: #afafaf;
@@ -58,95 +85,97 @@ body{
 }
 .med2{
     height: 260px;
-    width: 260px;
-    border-radius: 30%;
+    width: 315px;
+    border-radius: 20%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
+    margin-left: 10vw;
     margin-top: 80px;
     position: relative;
     top: 30px;
 }
 .med3{
     height: 260px;
-    width: 260px;
-    border-radius: 30%;
+    width: 315px;
+    border-radius: 20%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
+    margin-left: 10vw;
     margin-top: 80px;
     position: relative;
     top: 30px;
 }
 .med4{
     height: 260px;
-    width: 260px;
-    border-radius: 30%;
+    width: 315px;
+    border-radius: 20%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
+    margin-left: 10vw;
     margin-top: 80px;
     position: relative;
     top: 30px;
 }
 .word1{
     position: relative;
-    height: 10vh;
-    width: 25vw;
+    height: 100px;
+    width: 300px;
     text-align: center;
     font-size: 23px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
-    margin-top: 15vh;
-    margin-left: ;
+    margin-top: 135px;
 }
 .word2{
+    position: relative;
+    height: 100px;
+    width: 300px;
     text-align: center;
     font-size: 23px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
+    margin-top: 130px;
 }
 .word3{
+    position: relative;
+    height: 100px;
+    width: 300px;
     text-align: center;
     font-size: 23px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
+    margin-top: 130px;
 }
 .word4{
+    position: relative;
+    height: 100px;
+    width: 300px;
     text-align: center;
     font-size: 23px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
+    margin-top: 130px;
 }
 .circle1{
-    height: 240px;
-    width: 240px;
+    height: 270px;
+    width: 270px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
-    top: -105px;
-    left: 2px;
+    margin-top: -115px;
+    margin-left: 20px;
 }
 .photo1{
     position: relative;
-    left: -5px;
+    left: -3px;
     top: -3px;
 }
 .photo1:hover{
@@ -154,14 +183,14 @@ body{
     transition: 0.5s;
 }
 .circle2{
-    height: 240px;
-    width: 240px;
+    height: 270px;
+    width: 270px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
-    top: -105px;
-    left: 2px;
+    margin-top: -115px;
+    margin-left: 20px;
 }
 .photo2{
     position: relative;
@@ -173,14 +202,14 @@ body{
     transition: 0.5s;
 }
 .circle3{
-    height: 240px;
-    width: 240px;
+    height: 270px;
+    width: 270px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
-    top: -105px;
-    left: 2px;
+    margin-top: -115px;
+    margin-left: 20px;
 }
 .photo3{
     position: relative;
@@ -192,14 +221,14 @@ body{
     transition: 0.5s;
 }
 .circle4{
-    height: 240px;
-    width: 240px;
+    height: 270px;
+    width: 270px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
-    top: -105px;
-    left: 2px;
+    margin-top: -115px;
+    margin-left: 20px;
 }
 .photo4{
     position: relative;
