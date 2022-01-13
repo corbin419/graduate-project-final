@@ -43,14 +43,14 @@ body{
 }
 .box1{
     position: relative;
-    height: 80vh;
+    height: 60vh;
     width: 90vw;
     margin-top: 20vh;
 }
 .video1{
     flex: auto;
     width: 55vw;
-    height: 50vh;
+    height: 60vh;
     position: absolute;
 }
 .intor1{
@@ -64,14 +64,14 @@ body{
 }
 .box2{
     position: relative;
-    height: 80vh;
+    height: 60vh;
     width: 90vw;
     margin-top: 20vh;
 }
 .video2{
     flex: auto;
     width: 55vw;
-    height: 50vh;
+    height: 60vh;
     float: left;
     left: 35vw;
     position: absolute;
@@ -86,14 +86,14 @@ body{
 }
 .box3{
     position: relative;
-    height: 80vh;
+    height: 60vh;
     width: 90vw;
     margin-top: 20vh;
 }
 .video3{
     flex: auto;
     width: 55vw;
-    height: 50vh;
+    height: 60vh;
     position: absolute;
 }
 .intor3{
@@ -107,14 +107,14 @@ body{
 }
 .box4{
     position: relative;
-    height: 80vh;
+    height: 60vh;
     width: 90vw;
     margin-top: 20vh;
 }
 .video4{
     flex: auto;
     width: 55vw;
-    height: 50vh;
+    height: 60vh;
     float: left;
     left: 35vw;
     position: absolute;
