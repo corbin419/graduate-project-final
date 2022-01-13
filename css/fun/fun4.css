@@ -57,6 +57,14 @@ a:hover{
     margin-top: 15vh;
     font-size: 32px
 }
+.part0>h2{
+    font-size: 24px;
+}
+.part0-1{
+    position: relative;
+    margin-top: 15vh;
+    font-size: 28px
+}
 .part4{
     position: relative;
     margin-top: 15vh;
@@ -79,14 +87,14 @@ a:hover{
     width: 30vw;
     font-size: 24px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 39vw;
+    margin-top: -50vh;
 }
 .photo1-1{
     position: relative;
     height: 44vh;
     width: 70vw;
-    margin-top: 15vh;
+    margin-top: 45vh;
 }
 .word1-1{
     position: relative;
@@ -94,8 +102,16 @@ a:hover{
     width: 30vw;
     font-size: 24px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 39vw;
+    margin-top: -35vh;
+}
+.word1-1-1{
+    position: relative;
+    height: 30vh;
+    width: 70vw;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 25vh;
 }
 .word1-2{
     position: relative;
@@ -103,62 +119,19 @@ a:hover{
     width: 70vw;
     font-size: 24px;
     font-weight: bold;
-    margin-top: 20vh;
+    margin-top: 10vh;
 }
 .part2{
     position: relative;
-    height: 150vh;
+    height: 15vh;
     width: 70vw;
-    margin-top: 35vh;
-}
-.photo2{
-    position: relative;
-    height: 44vh;
-    width: 70vw;
-}
-.photo2-1{
-    position: relative;
-    height: 44vh;
-    width: 70vw;
-    margin-top: 25vh;
-}
-.photo2-2{
-    position: relative;
-    height: 44vh;
-    width: 70vw;
-    margin-top: 15vh;
-}
-.word2{
-    position: relative;
-    height: 30vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -50vh;
-}
-.word2-1{
-    position: relative;
-    height: 30vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -50vh;
-}
-.word2-2{
-    position: relative;
-    height: 30vh;
-    width: 70vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-top: 30vh;
+    margin-top: 55vh;
 }
 .part3{
     position: relative;
     height: 130vh;
     width: 70vw;
-    margin-top: 75vh;
+    margin-top: 25vh;
 }
 .photo3{
     position: relative;
@@ -171,7 +144,7 @@ a:hover{
     width: 30vw;
     font-size: 24px;
     font-weight: bold;
-    margin-left: 37vw;
+    margin-left: 39vw;
     margin-top: -45vh;
 }
 .word3-3{
@@ -195,8 +168,8 @@ a:hover{
     width: 30vw;
     font-size: 24px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 32vw;
+    margin-top: -50vh;
 }
 .part4{
     position: relative;
@@ -217,16 +190,16 @@ a:hover{
     position: relative;
     height: 35vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -45vh;
+    margin-top: -42vh;
 }
 .photo5-2{
     position: relative;
     height: 44vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 8vh;
 }
 .word5-2{
     position: relative;
@@ -235,116 +208,22 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -40vh;
+    margin-top: -45vh;
 }
 .photo5-3{
     position: relative;
     height: 44vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 20vh;
 }
 .word5-3{
     position: relative;
     height: 35vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
-    margin-top: -40vh;
-    margin-left: 37vw;
-}
-.photo5-4{
-    position: relative;
-    height: 44vh;
-    width: 70vw;
-    margin-top: 10vh;
-}
-.word5-4{
-    position: relative;
-    height: 35vh;
-    width: 35vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-top: -40vh;
-    margin-left: 37vw;
-}
-.part6{
-    position: relative;
-    height: 130vh;
-    width: 70vw;
-    margin-top: 135vh;
-}
-.photo6-1{
-    position: relative;
-    height: 50vh;
-    width: 70vw;
-}
-.word6-1{
-    position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -45vh;
-}
-.photo6-2{
-    position: relative;
-    height: 44vh;
-    width: 70vw;
-    margin-top: 10vh;
-}
-.word6-2{
-    position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
-}
-.word6-3{
-    position: relative;
-    height: 35vh;
-    width: 70vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-top: 15vh;
-}
-.part7{
-    position: relative;
-    height: 130vh;
-    width: 70vw;
-    margin-top: 55vh;
-}
-.photo7{
-    position: relative;
-    height: 50vh;
-    width: 70vw;
-    margin-top: 10vh;
-}
-.word7{
-    position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
     margin-top: -35vh;
-}
-.photo7-1{
-    position: relative;
-    height: 50vh;
-    width: 70vw;
-    margin-top: 15vh;
-}
-.word7-2{
-    position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -35vh;
+    margin-left: 35vw;
 }
 .top{
     float: left;
@@ -365,7 +244,7 @@ a:hover{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 45vw;
-    margin-top:25vh;
+    margin-top:75vh;
 }
 .button:hover{
     transform: scale(1.1);
