@@ -22,6 +22,7 @@ body{
     width: 100%;
     scroll-behavior: smooth;
     background-color: #f5f1ee;
+    display: inline-block;
 }
 .top{
     float: left;
@@ -30,22 +31,18 @@ body{
     left: 50px;
 }
 .KW{
-    position: relative;
-    display: flex;
+    position: absolute;
     height: 100%;
     width: 100%;
     background:#f5f1ee ;
     font-size: 36px;
 }
-.box1{
-    position: relative;
-    flex: auto;
-    top: 30vh;
-    height: 45vh;
-    width: 40vw;
-    margin-top: 10vh;
-    margin-left: -20vw;
-    margin-right: 20px;
+.box111{
+    position: absolute;
+    height: 100%;
+    width: 90vw;
+    background:#f5f1ee ;
+    margin-left: 5vw;
 }
 .med-title{
     height:200px ;
@@ -54,43 +51,11 @@ body{
     top: 100px;
     margin-left: 20px;
 }
-.icon1{
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    color: #f8cca0;
-    z-index:3 ;
-}
-.circle{
+.box1{
     position: relative;
-    height:200px ;
-    width: 200px;
-}
-.circleTest{
-    position: relative;
-    height:200px ;
-    width: 200px;
-    border-radius: 100px;
-    background-color: #534741;
-    z-index: 2;
-}
-.ret{
-    width: 350px;
-    height: 165px;
-    border-radius: 75px;
-    background-color: #f8cca0;
-    position: absolute;
-    top: 20px;
-    left: 90px;
-    z-index: 1;
-}
-.fword{
-    text-align: center;
-    margin-top: 40px;
-    margin-left: 40px;
-    font-size: 60px ;
-    font-weight: bold;
-    font-family: jp;
+    height: 45vh;
+    width: 90vw;
+    margin-top: 20vh;
 }
 .med1{
     height: 300px;
@@ -110,7 +75,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
+    margin-left: 50px;
     margin-top: 80px;
     position: relative;
     top: 30px;
@@ -122,7 +87,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
+    margin-left: 50px;
     margin-top: 80px;
     position: relative;
     top: 30px;
@@ -134,7 +99,7 @@ body{
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 80px;
+    margin-left: 50px;
     margin-top: 80px;
     position: relative;
     top: 30px;
