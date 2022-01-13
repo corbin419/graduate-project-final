@@ -26,17 +26,17 @@ body{
     display: inline-block;
 }
 .KW2{
-    display: flex;
+    display: inline-block;
     height: 100%;
-    width: 70vw;
+    width: 80vw;
     background-color: #f5f1ee;
-    position: relative;
-    left: 15vw;
+    position: absolute;
+    left: 10vw;
     top: 10vh;
 }
 .money-title{
-    height: 30vh;
-    width: 70vw;
+    height: 26vh;
+    width: 557w;
     position: relative;
     margin-left: 20px;
 }
@@ -84,12 +84,12 @@ body{
     z-index: 2;
 }
 .article1{
-    height: 50vh;
-    width: 70vw;
+    height: 70vh;
+    width: 75vw;
     position: relative;
     background-color: #f5f1ee;
-    margin-top: 25vh;
-    margin-left: -10vw;
+    margin-left: 3vw;
+    margin-top: 5vh;
 }
 .article1>h1{
     font-size: 36px;
@@ -103,30 +103,27 @@ body{
 .box11{
     position: relative;
     height: 25vh;
-    width: 70vw;
-    margin-top: 10vh;
-    margin-left: -40vw;
+    width: 75vw;
 }
 .sheet{
-    height: 50vh;
-    width: 70vw;
+    height: 44vh;
+    width: 75vw;
     position: relative;
-    margin-left: -20vw;
     display: flex;
+    margin-top: 5vh;
 }
 .part1{
-    height: 50vh;
-    width: 20vw;
-    font-size: 24px;
+    height: 42vh;
+    width: 15vw;
+    font-size: 18px;
     font-weight: bold;
     position: relative;
     flex: auto;
-    margin-left: -20vw;
 }
 .part2{
-    height: 50vh;
-    width: 20vw;
-    font-size: 24px;
+    height: 35vh;
+    width: 15vw;
+    font-size: 18px;
     font-weight: bold;
     position: relative;
     margin-left: 10px;
@@ -134,9 +131,9 @@ body{
     flex: auto;
 }
 .part3{
-    height: 50vh;
-    width: 20vw;
-    font-size: 24px;
+    height: 35vh;
+    width: 15vw;
+    font-size: 18px;
     font-weight: bold;
     position: relative;
     margin-left: 10px;
@@ -144,12 +141,12 @@ body{
     flex: auto;
 }
 .article2{
-    height: 50vh;
-    width: 70vw;
+    height: 45vh;
+    width: 75vw;
     position: relative;
     background-color: #f5f1ee;
+    margin-left: 3vw;
     margin-top: 15vh;
-    margin-left: -10vw;
 }
 .article2>h1{
     font-size: 36px;
@@ -184,12 +181,12 @@ td:hover {
     background-color: #aad9e2;
 }
 .article3{
-    height: 50vh;
-    width: 70vw;
+    height: 55vh;
+    width: 75vw;
     position: relative;
     background-color: #f5f1ee;
-    margin-top: 15vh;
-    margin-left: -10vw;
+    margin-left: 3vw;
+    margin-top: 5vh;
 }
 .article3>h1{
     font-size: 36px;
@@ -201,12 +198,12 @@ td:hover {
     font-family: jp;
 }
 .article4{
-    height: 50vh;
-    width: 70vw;
+    height: 55vh;
+    width: 75vw;
     position: relative;
     background-color: #f5f1ee;
+    margin-left: 3vw;
     margin-top: 15vh;
-    margin-left: -10vw;
 }
 .article4>h1{
     font-size: 36px;
@@ -218,12 +215,12 @@ td:hover {
     font-family: jp;
 }
 .article5{
-    height: 50vh;
-    width: 70vw;
+    height: 85vh;
+    width: 75vw;
     position: relative;
     background-color: #f5f1ee;
+    margin-left: 3vw;
     margin-top: 15vh;
-    margin-left: -10vw;
 }
 .article5>h1{
     font-size: 36px;
@@ -235,12 +232,12 @@ td:hover {
     font-family: jp;
 }
 .article6{
-    height: 50vh;
-    width: 70vw;
+    height: 35vh;
+    width: 75vw;
     position: relative;
     background-color: #f5f1ee;
+    margin-left: 3vw;
     margin-top: 15vh;
-    margin-left: -10vw;
 }
 .article6>h1{
     font-size: 36px;

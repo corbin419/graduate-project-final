@@ -54,7 +54,7 @@ body{
     position: absolute;
     height: 70vw;
     width: 70vw;
-    margin-top: 85vw;
+    margin-top: 95vw;
 }
 .top{
     float: left;
@@ -75,7 +75,7 @@ body{
     font-weight: bold;
     background-color: rgb(192, 151, 112);
     margin-left: 60vw;
-    margin-top: 330vh ;
+    margin-top: 380vh ;
 }
 .button:hover{
     transform: scale(1.1);
