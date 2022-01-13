@@ -36,7 +36,7 @@ body{
 }
 .videopage{
     position: relative;
-    height: 100%;
+    height: 290vh;
     width: 90vw;
     margin-left: 5vw;
     background-color: #f5f1ee;
@@ -54,7 +54,7 @@ body{
     position: absolute;
 }
 .intor1{
-    position: relative;
+    position: absolute;
     height: 20vh;
     width: 30vw;
     margin-left: 60vw;
@@ -74,7 +74,7 @@ body{
     height: 50vh;
     float: left;
     left: 35vw;
-    position: relative;
+    position: absolute;
 }
 .intor2{
     position: absolute;
@@ -97,7 +97,7 @@ body{
     position: absolute;
 }
 .intor3{
-    position: relative;
+    position: absolute;
     height: 20vh;
     width: 30vw;
     margin-left: 60vw;
@@ -117,7 +117,7 @@ body{
     height: 50vh;
     float: left;
     left: 35vw;
-    position: relative;
+    position: absolute;
 }
 .intor4{
     position: absolute;
