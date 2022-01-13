@@ -7,6 +7,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    /*border: 1px solid red;*/
     -webkit-text-size-adjust: none;
 }
 img{
@@ -18,8 +19,11 @@ html{
 }
 body{
     height: 100%;
-    width: 100vw;
+    width: 100%;
     scroll-behavior: smooth;
+    background-color: #f5f1ee;
+    display: inline-block;
+    font-family: jp;
 }
 .header{
     position: sticky;
@@ -31,35 +35,97 @@ body{
     background-color: #f5f1ee;
 }
 .videopage{
-    border: 1px solid red;
     position: relative;
-    display: flex;
     height: 100%;
-    width:100%;
+    width: 90vw;
+    margin-left: 5vw;
     background-color: #f5f1ee;
 }
-.video{
+.box1{
+    position: relative;
+    height: 50vh;
+    width: 90vw;
+    margin-top: 20vh;
+}
+.video1{
     flex: auto;
-    top: 30vh;
-    left: 1vw;
+    width: 55vw;
+    height: 50vh;
+    position: absolute;
+}
+.intor1{
+    position: relative;
+    height: 20vh;
     width: 30vw;
-    height: 30vw;
+    margin-left: 60vw;
+    margin-top: 15vh;
+    font-size: 60px;
+    text-align: center;
+}
+.box2{
+    position: relative;
+    height: 50vh;
+    width: 90vw;
+    margin-top: 20vh;
+}
+.video2{
+    flex: auto;
+    width: 55vw;
+    height: 50vh;
+    float: left;
+    left: 35vw;
     position: relative;
 }
-.intor{
-    flex: auto;
-    width: 1vw;
-    height: 20vw;
-    top: 40vh;
+.intor2{
+    position: absolute;
+    height: 20vh;
+    width: 30vw;
+    font-size: 60px;
     text-align: center;
-    font-family: jp;
-    font-size: 1.6vw;
-    font-weight: bold;
-    background-color: rgb(157, 204, 248);
-    border-radius: 20px;
+    margin-top: 15vh;
+}
+.box3{
     position: relative;
-    margin-left: 70px;
-    margin-right: 30px;
+    height: 50vh;
+    width: 90vw;
+    margin-top: 20vh;
+}
+.video3{
+    flex: auto;
+    width: 55vw;
+    height: 50vh;
+    position: absolute;
+}
+.intor3{
+    position: relative;
+    height: 20vh;
+    width: 30vw;
+    margin-left: 60vw;
+    margin-top: 15vh;
+    font-size: 60px;
+    text-align: center;
+}
+.box4{
+    position: relative;
+    height: 50vh;
+    width: 90vw;
+    margin-top: 20vh;
+}
+.video4{
+    flex: auto;
+    width: 55vw;
+    height: 50vh;
+    float: left;
+    left: 35vw;
+    position: relative;
+}
+.intor4{
+    position: absolute;
+    height: 20vh;
+    width: 30vw;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 15vh;
 }
 nav{
     height: 55px;
