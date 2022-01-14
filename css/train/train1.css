@@ -25,8 +25,7 @@ body{
     font-family: jp;
 }
 .article{
-    display: flex;
-    height: auto;
+    height: 700vh;
     width: 70vw;
     background-color: #f5f1ee;
     position: absolute;
@@ -34,107 +33,64 @@ body{
     top: 10vh;
 }
 .content{
-    height:100%;
+    height:700vh;
     width: 70vw;
     top: 25vh;
     position:absolute;
 }
 .money-title{
     height: 30vh;
-    width: 70vw;
+    width: 53vw;
     position: relative;
     margin-left: 1vw;
 }
-.Q{
-    height: 240px;
-    width: 220px;
-    border: 30px solid #c7b299;
-    border-radius: 180px;
-    position: relative;
-    z-index: 3;
-}
-.line{
-    height: 100px;
-    width: 1px;
-    border: 18px solid #c7b299;
-    border-radius: 10px;
-    transform: rotate(-50deg);
-    position: relative;
-    left: 135px;
-    top: -70px;
-    z-index: 1;
-}
-.ret2{
-    height: 140px;
-    width: 650px;
-    background-color: #d8cabc;
-    border-radius: 90px;
-    position: relative ;
-    top: -185px;
-    left: 149px;
-    z-index: 0;
-}
-.mword{
-    font-size: 35px;
-    text-align: center;
-    font-weight: bold;
-    font-family: jp;
-    padding-top: -20px;
-    padding-left: 35px;
-}
-.photo5{
-    position: relative;
-    left: -10px;
-    top: -8px;
-    z-index: 2;
-}
 .part1{
     position: relative;
-    height: 10vh;
-    width: 60vw;
+    height: 15vh;
+    width: 70vw;
     margin-top: 15vh;
 }
 .part2{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part3{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 35vh;
+    height: 15vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part4{
     position: relative;
-    height: 10vh;
-    width: 60vw;
+    height: 30vh;
+    width: 70vw;
     margin-top: 15vh;
 }
 .part5{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 35vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part6{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 7vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part7{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 5vh;
+    height: 30vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part8{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 30vh;
+    height: 65vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part8>h1{
     font-size: 46px;
@@ -148,51 +104,51 @@ body{
 }
 .part9{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 95vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part10{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part11{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part12{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part13{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part14{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 25vh;
+    height: 25vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .part15{
     position: relative;
     height: 10vh;
-    width: 60vw;
+    width: 70vw;
     margin-top: 15vh;
 }
 .part16{
     position: relative;
-    height: 10vh;
-    width: 60vw;
-    margin-top: 10vh;
+    height: 48vh;
+    width: 70vw;
+    margin-top: 15vh;
 }
 .top{
     float: left;
@@ -212,8 +168,8 @@ body{
     font-family: jp;
     font-weight: bold;
     background-color: rgb(192, 151, 112);
-    margin-left: 45vw;
-    margin-top:55vh;
+    margin-left: 50vw;
+    bottom: 0;
 }
 .button:hover{
     transform: scale(1.1);

@@ -293,6 +293,31 @@ nav{
     border: 2px solid;
     outline: none;
 }
+.button{
+    position: absolute;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    padding-top: 4px;
+    font-size: 65px;
+    text-align: center;
+    font-family: jp;
+    font-weight: bold;
+    background-color: rgb(192, 151, 112);
+    margin-left: 85vw;
+    bottom: 0;
+}
+.button:hover{
+    transform: scale(1.1);
+    color: saddlebrown;
+    transition: 0.5s;
+}
+.button > a:hover{
+    color: rgb(237, 239, 243);
+}
+a{
+    color: rgb(95, 93, 93);
+}
 @media screen and(max-height:450px) {
     .overlay a{font-size: 20px;}
     .overlay.closebtn{

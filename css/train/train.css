@@ -32,9 +32,8 @@ body{
 }
 .KW{
     position: absolute;
-    display: flex;
     height: 100%;
-    width: 100%;
+    width: 95vw;
     background:#f5f1ee ;
     font-size: 36px;
 }
@@ -42,72 +41,25 @@ body{
     position: relative;
     flex: auto;
     top: 30vh;
-    height: 40vh;
-    width: 90vw;
-    margin-top: 10vh;
-    left: -10vw;
+    width: 80vw;
 }
 .box1{
-    position: relative;
-    flex: auto;
-    height: 42vh;
-    width: 90vw;
+    position: absolute ;
+    height: 35vh;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-top: 15vh;
 }
 .med-title{
-    height:20vh;
-    width: 90vw;
+    height:26vh;
+    width: 28vw;
     position: relative;
-    top: 8vh;
-    margin-left: 1vw;
-}
-.icon1{
-    position: absolute;
-    top: 35px;
-    left: 30px;
-    color: #f8cca0;
-    z-index:3 ;
-}
-.icon2{
-    position: absolute;
-    top: 60px;
-    left: 65px;
-    color: #f5baba;
-    z-index:3 ;
-}
-.circle{
-    position: relative;
-    height:200px ;
-    width: 200px;
-}
-.circleTest{
-    position: relative;
-    height:200px ;
-    width: 200px;
-    border-radius: 100px;
-    background-color: #534741;
-    z-index: 2;
-}
-.ret{
-    width: 350px;
-    height: 165px;
-    border-radius: 75px;
-    background-color: #f8cca0;
-    position: absolute;
-    top: 20px;
-    left: 90px;
-    z-index: 1;
-}
-.fword{
-    text-align: center;
-    margin-top: 40px;
-    margin-left: 40px;
-    font-size: 60px ;
-    font-weight: bold;
-    font-family: jp;
+    margin-left: 2vw;
+    margin-top: 10vh;
 }
 .med1{
-    height: 230px;
-    width: 230px;
+    height: 200px;
+    width: 200px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
@@ -115,74 +67,75 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 40px;
 }
 .med2{
-    height: 230px;
-    width: 230px;
+    height: 200px;
+    width: 200px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 40px;
 }
 .med3{
-    height: 230px;
-    width: 230px;
+    height: 200px;
+    width: 200px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 40px;
 }
 .med4{
-    height: 230px;
-    width: 230px;
+    height: 200px;
+    width: 200px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 40px;
 }
 .med5{
-    height: 230px;
-    width: 230px;
+    height: 200px;
+    width: 200px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 40px;
 }
 .word1{
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 35px;
+    bottom: 20px;
     left: 25px;
 }
 .word2{
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 35px;
-    left: 10px;
+    bottom: 30px;
+    left: 7px;
 }
 .word3{
     text-align: center;
@@ -191,8 +144,8 @@ body{
     font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 45px;
-    left: 10px;
+    bottom: 20px;
+    left: 5px;
 }
 .word4{
     text-align: center;
@@ -202,21 +155,21 @@ body{
     font-family: jp;
     position: absolute;
     bottom: 25px;
-    left: 25px;
+    left: 7px;
 }
 .word5{
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
     color: #533816;
     font-weight: bold;
     font-family: jp;
     position: absolute;
-    bottom: 35px;
-    left: 35px;
+    bottom: 25px;
+    left: 30px;
 }
 .circle1{
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -234,8 +187,8 @@ body{
     transition: 0.5s;
 }
 .circle2{
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -253,8 +206,8 @@ body{
     transition: 0.5s;
 }
 .circle3{
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -272,8 +225,8 @@ body{
     transition: 0.5s;
 }
 .circle4{
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -291,8 +244,8 @@ body{
     transition: 0.5s;
 }
 .circle5{
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
     border-radius: 130px;
     border: 8px solid;
     border-color: #c3ae95;
@@ -383,6 +336,31 @@ nav{
     background: transparent;
     border: 2px solid;
     outline: none;
+}
+.button{
+    position: absolute;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    padding-top: 4px;
+    font-size: 65px;
+    text-align: center;
+    font-family: jp;
+    font-weight: bold;
+    background-color: rgb(192, 151, 112);
+    margin-left: 85vw;
+    bottom: 0;
+}
+.button:hover{
+    transform: scale(1.1);
+    color: saddlebrown;
+    transition: 0.5s;
+}
+.button > a:hover{
+    color: rgb(237, 239, 243);
+}
+a{
+    color: rgb(95, 93, 93);
 }
 @media screen and(max-height:450px) {
     .overlay a{font-size: 20px;}

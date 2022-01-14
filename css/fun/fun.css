@@ -32,30 +32,21 @@ body{
 }
 .KW{
     position: absolute;
-    display: flex;
     height: 100%;
     width: 100%;
     background:#f5f1ee ;
     font-size: 36px;
 }
-.KW1{
-    position: relative;
-    flex: auto;
-    top: 30vh;
-    height: 40vh;
-    width: 90vw;
-    margin-top: 20vh;
-    left: -10vw;
-}
 .box1{
-    position: relative;
-    flex: auto;
+    position: absolute;
     height: 42vh;
-    width: 70vw;
+    width: 90vw;
+    margin-top: 10vh;
+    margin-left: 5vw;
 }
 .med-title{
-    height:20vh;
-    width: 90vw;
+    height:22vh;
+    width: 32vw;
     position: relative;
     top: 8vh;
     margin-left: 1vw;
@@ -106,8 +97,8 @@ body{
     font-family: jp;
 }
 .med1{
-    height: 230px;
-    width: 230px;
+    height: 260px;
+    width: 260px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
@@ -115,42 +106,43 @@ body{
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 20px;
 }
 .med2{
-    height: 230px;
-    width: 230px;
+    height: 260px;
+    width: 260px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 20px;
 }
 .med3{
-    height: 230px;
-    width: 230px;
+    height: 260px;
+    width: 260px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 20px;
 }
 .med4{
-    height: 230px;
-    width: 230px;
+    height: 260px;
+    width: 260px;
     border-radius: 30%;
     border: 5px solid;
     border-color: #afafaf;
     float: left;
-    margin-left: 20px;
     margin-top: 80px;
     position: relative;
     top: 30px;
+    margin-left: 20px;  
 }
 .word1{
     text-align: center;
@@ -193,14 +185,13 @@ body{
     left: 25px;
 }
 .circle1{
-    height: 220px;
-    width: 220px;
-    border-radius: 130px;
+    height: 240px;
+    width: 240px;
+    border-radius: 120px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
     top: -105px;
-    left: -5px;
 }
 .photo1{
     position: relative;
@@ -212,14 +203,13 @@ body{
     transition: 0.5s;
 }
 .circle2{
-    height: 220px;
-    width: 220px;
-    border-radius: 130px;
+    height: 240px;
+    width: 240px;
+    border-radius: 120px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
     top: -105px;
-    left: -5px;
 }
 .photo2{
     position: relative;
@@ -231,14 +221,13 @@ body{
     transition: 0.5s;
 }
 .circle3{
-    height: 220px;
-    width: 220px;
-    border-radius: 130px;
+    height: 240px;
+    width: 240px;
+    border-radius: 120px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
     top: -105px;
-    left: -5px;
 }
 .photo3{
     position: relative;
@@ -250,14 +239,13 @@ body{
     transition: 0.5s;
 }
 .circle4{
-    height: 220px;
-    width: 220px;
-    border-radius: 130px;
+    height: 240px;
+    width: 240px;
+    border-radius: 120px;
     border: 8px solid;
     border-color: #c3ae95;
     position: absolute;
     top: -105px;
-    left: -5px;
 }
 .photo4{
     position: relative;
@@ -341,6 +329,31 @@ nav{
     background: transparent;
     border: 2px solid;
     outline: none;
+}
+.button{
+    position: absolute;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    padding-top: 4px;
+    font-size: 65px;
+    text-align: center;
+    font-family: jp;
+    font-weight: bold;
+    background-color: rgb(192, 151, 112);
+    margin-left: 80vw;
+    bottom: 0;
+}
+.button:hover{
+    transform: scale(1.1);
+    color: saddlebrown;
+    transition: 0.5s;
+}
+.button > a:hover{
+    color: rgb(237, 239, 243);
+}
+a{
+    color: rgb(95, 93, 93);
 }
 @media screen and(max-height:450px) {
     .overlay a{font-size: 20px;}

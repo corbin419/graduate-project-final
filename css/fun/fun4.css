@@ -27,15 +27,14 @@ body{
 }
 .article{
     display: flex;
-    height: auto;
+    height: 530vh;
     width: 70vw;
+    margin-left: 15vw;
     background-color: #f5f1ee;
     position: absolute;
-    left: 20vw;
-    top: 10vh;
 }
 .content{
-    height:100%;
+    height:530vh;
     width: 70vw;
     top: 25vh;
     position:absolute;
@@ -54,175 +53,161 @@ a:hover{
 }
 .part0{
     position: relative;
-    margin-top: 15vh;
-    font-size: 32px
+    margin-top: 5vh;
+    font-size: 28px;
 }
 .part0>h2{
     font-size: 24px;
 }
 .part0-1{
     position: relative;
-    margin-top: 15vh;
+    margin-top: 5vh;
     font-size: 28px
-}
-.part4{
-    position: relative;
-    margin-top: 15vh;
-    font-size: 32px;
 }
 .part1{
     position: relative;
-    height: 150vh;
+    height: 123vh;
     width: 70vw;
     margin-top: 15vh;
 }
 .photo1{
     position: relative;
-    height: 44vh;
+    height: 38vh;
     width: 70vw;
 }
 .word1{
     position: relative;
-    height: 30vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 25vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 39vw;
-    margin-top: -50vh;
+    margin-left: 42vw;
+    margin-top: -30vh;
 }
 .photo1-1{
     position: relative;
-    height: 44vh;
+    height: 32vh;
     width: 70vw;
-    margin-top: 45vh;
+    margin-top: 15vh;
 }
 .word1-1{
     position: relative;
-    height: 30vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 15vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 39vw;
-    margin-top: -35vh;
+    margin-left: 42vw;
+    margin-top: -25vh;
 }
 .word1-1-1{
     position: relative;
-    height: 30vh;
+    height: 16vh;
     width: 70vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
-    margin-top: 25vh;
+    margin-top: 5vh;
 }
 .word1-2{
     position: relative;
-    height: 30vh;
+    height: 12vh;
     width: 70vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 10vh;
 }
 .part2{
     position: relative;
-    height: 15vh;
+    height: 7vh;
     width: 70vw;
-    margin-top: 55vh;
+    margin-top: 5vh;
 }
 .part3{
     position: relative;
     height: 130vh;
     width: 70vw;
-    margin-top: 25vh;
+    margin-top: 15vh;
 }
 .photo3{
     position: relative;
-    height: 50vh;
+    height: 40vh;
     width: 70vw;
 }
 .word3{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 20vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 39vw;
-    margin-top: -45vh;
-}
-.word3-3{
-    position: relative;
-    height: 7vh;
-    width: 65vw;
-    font-size: 24px;
-    font-weight: bold;
-    margin-top: 10vh;
-    margin-left: 1vw;
+    margin-left: 42vw;
+    margin-top: -30vh;
 }
 .photo3-1{
     position: relative;
-    height: 44vh;
+    height: 54vh;
     width: 70vw;
-    margin-top: 25vh;
+    margin-top: 15vh;
 }
 .word3-2{
     position: relative;
-    height: 35vh;
+    height: 15vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 32vw;
-    margin-top: -50vh;
+    margin-left: 34vw;
+    margin-top: -35vh;
 }
 .part4{
     position: relative;
-    margin-top: 75vh;
+    margin-top: 5vh;
 }
 .part5{
     position: relative;
-    height: 130vh;
+    height: 145vh;
     width: 70vw;
-    margin-top: 35vh;
+    margin-top: 15vh;
 }
 .photo5-1{
     position: relative;
-    height: 50vh;
+    height: 30vh;
     width: 70vw;
 }
 .word5-1{
     position: relative;
-    height: 35vh;
+    height: 25vh;
     width: 30vw;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -42vh;
+    margin-top: -30vh;
 }
 .photo5-2{
     position: relative;
-    height: 44vh;
+    height: 43vh;
     width: 70vw;
-    margin-top: 8vh;
+    margin-top: 5vh;
 }
 .word5-2{
     position: relative;
-    height: 35vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -45vh;
+    margin-top: -30vh;
 }
 .photo5-3{
     position: relative;
-    height: 44vh;
+    height: 30vh;
     width: 70vw;
-    margin-top: 20vh;
+    margin-top: 15vh;
 }
 .word5-3{
     position: relative;
-    height: 35vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    margin-top: -35vh;
+    margin-top: -25vh;
     margin-left: 35vw;
 }
 .top{
@@ -243,8 +228,8 @@ a:hover{
     font-family: jp;
     font-weight: bold;
     background-color: rgb(192, 151, 112);
-    margin-left: 45vw;
-    margin-top:75vh;
+    margin-left: 50vw;
+    bottom: 0;
 }
 .button:hover{
     transform: scale(1.1);

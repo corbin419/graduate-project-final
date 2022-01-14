@@ -27,7 +27,7 @@ body{
 }
 .article{
     display: flex;
-    height: auto;
+    height: 1040vh;
     width: 70vw;
     background-color: #f5f1ee;
     position: absolute;
@@ -35,7 +35,7 @@ body{
     top: 10vh;
 }
 .content{
-    height:100%;
+    height:1000vh;
     width: 70vw;
     top: 25vh;
     position:absolute;
@@ -47,24 +47,27 @@ a:hover{
     color: rgb(10, 10, 10);
 }
 .money-title{
-    height: 30vh;
-    width: 70vw;
+    height: 24vh;
+    width: 52vw;
     position: relative;
-    margin-left: 1vw;
 }
 .part0{
     position: relative;
+    width: 70vw;
+    height: 10vh;
     margin-top: 15vh;
-    font-size: 32px
+    font-size: 32px;
 }
 .part4{
     position: relative;
+    width: 70vw;
+    height: 10vh;
     margin-top: 15vh;
     font-size: 32px;
 }
 .part1{
     position: relative;
-    height: 150vh;
+    height: 125vh;
     width: 70vw;
     margin-top: 15vh;
 }
@@ -75,76 +78,76 @@ a:hover{
 }
 .word1{
     position: relative;
-    height: 30vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 39vw;
+    margin-top: -30vh;
 }
 .photo1-1{
     position: relative;
     height: 44vh;
     width: 70vw;
-    margin-top: 15vh;
+    margin-top: 5vh;
 }
 .word1-1{
     position: relative;
-    height: 30vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 39vw;
+    margin-top: -30vh;
 }
 .part2{
     position: relative;
-    height: 150vh;
+    height: 136vh;
     width: 70vw;
     margin-top: 15vh;
 }
 .photo2{
     position: relative;
-    height: 44vh;
+    height: 49vh;
     width: 70vw;
 }
 .photo2-1{
     position: relative;
-    height: 44vh;
+    height: 49vh;
     width: 70vw;
-    margin-top: 15vh;
+    margin-top: 5vh;
 }
 .word2{
     position: relative;
-    height: 30vh;
+    height: 25vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -50vh;
+    margin-left: 36vw;
+    margin-top: -35vh;
 }
 .word2-1{
     position: relative;
-    height: 30vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -50vh;
+    margin-top: -35vh;
 }
 .word2-2{
     position: relative;
-    height: 30vh;
+    height: 10vh;
     width: 70vw;
     font-size: 24px;
     font-weight: bold;
-    margin-top: 30vh;
+    margin-top: 15vh;
 }
 .part3{
     position: relative;
-    height: 130vh;
+    height: 160vh;
     width: 70vw;
-    margin-top: 35vh;
+    margin-top: 15vh;
 }
 .photo3{
     position: relative;
@@ -153,191 +156,192 @@ a:hover{
 }
 .word3{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 25vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -45vh;
+    margin-left: 42vw;
+    margin-top: -30vh;
 }
 .word3-1{
     position: relative;
     height: 7vh;
-    width: 65vw;
-    font-size: 24px;
+    width: 70vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-top: 10vh;
-    margin-left: 1vw;
+    margin-top: 5vh;
 }
 .photo3-1{
     position: relative;
-    height: 44vh;
+    height: 34vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 5vh;
 }
 .word3-2{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 23vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 42vw;
+    margin-top: -28vh;
 }
 .photo3-2{
     position: relative;
-    height: 44vh;
+    height: 32vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 5vh;
 }
 .word3-3{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 20vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -40vh;
+    margin-left: 40vw;
+    margin-top: -25vh;
 }
 .part4{
     position: relative;
-    margin-top: 75vh;
+    margin-top: 15vh;
+    height: 10vh;
+    width: 70vw;
 }
 .part5{
     position: relative;
     height: 130vh;
     width: 70vw;
-    margin-top: 35vh;
+    margin-top: 15vh;
 }
 .photo5-1{
     position: relative;
-    height: 50vh;
+    height: 43vh;
     width: 70vw;
 }
 .word5-1{
     position: relative;
-    height: 35vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -45vh;
+    margin-top: -32vh;
 }
 .photo5-2{
     position: relative;
-    height: 44vh;
+    height: 42vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 5vh;
 }
 .word5-2{
     position: relative;
-    height: 35vh;
+    height: 20vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -40vh;
+    margin-top: -32vh;
 }
 .word5-3{
     position: relative;
-    height: 35vh;
+    height: 10vh;
     width: 70vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 15vh;
 }
 .part6{
     position: relative;
-    height: 130vh;
+    height: 140vh;
     width: 70vw;
-    margin-top: 55vh;
+    margin-top: 15vh;
 }
 .photo6-1{
     position: relative;
-    height: 50vh;
+    height: 45vh;
     width: 70vw;
 }
 .word6-1{
     position: relative;
-    height: 35vh;
+    height: 28vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -45vh;
+    margin-top: -35vh;
 }
 .photo6-2{
     position: relative;
     height: 44vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 5vh;
 }
 .word6-2{
     position: relative;
-    height: 35vh;
+    height: 15vh;
     width: 30vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-left: 37vw;
-    margin-top: -40vh;
+    margin-top: -28vh;
 }
 .word6-3{
     position: relative;
-    height: 35vh;
+    height: 15vh;
     width: 70vw;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 15vh;
 }
 .part7{
     position: relative;
-    height: 130vh;
+    height: 165vh;
     width: 70vw;
-    margin-top: 55vh;
+    margin-top: 15vh;
 }
 .photo7{
     position: relative;
-    height: 50vh;
+    height: 55vh;
     width: 70vw;
 }
 .word7{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 20vh;
+    width: 26vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -45vh;
+    margin-left: 41vw;
+    margin-top: -35vh;
 }
 .photo7-1{
     position: relative;
-    height: 50vh;
+    height: 33vh;
     width: 70vw;
-    margin-top: 25vh;
+    margin-top: 5vh;
 }
 .word7-2{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 20vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -35vh;
+    margin-left: 42vw;
+    margin-top: -25vh;
 }
 .photo7-2{
     position: relative;
-    height: 44vh;
+    height: 35vh;
     width: 70vw;
-    margin-top: 10vh;
+    margin-top: 5vh;
 }
 .word7-3{
     position: relative;
-    height: 35vh;
-    width: 30vw;
-    font-size: 24px;
+    height: 20vh;
+    width: 25vw;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 37vw;
-    margin-top: -35vh;
+    margin-left: 42vw;
+    margin-top: -25vh;
 }
 .top{
     float: left;
@@ -357,8 +361,8 @@ a:hover{
     font-family: jp;
     font-weight: bold;
     background-color: rgb(192, 151, 112);
-    margin-left: 45vw;
-    margin-top:95vh;
+    margin-left: 50vw;
+    bottom: 0;
 }
 .button:hover{
     transform: scale(1.1);
