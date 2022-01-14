@@ -42,49 +42,8 @@ body{
 .money-title{
     height: 28vh;
     width: 52vw;
+    margin-top: 5vh;
     position: relative;
-}
-.Q{
-    height: 240px;
-    width: 220px;
-    border: 30px solid #c7b299;
-    border-radius: 180px;
-    position: relative;
-    z-index: 3;
-}
-.line{
-    height: 100px;
-    width: 1px;
-    border: 18px solid #c7b299;
-    border-radius: 10px;
-    transform: rotate(-50deg);
-    position: relative;
-    left: 135px;
-    top: -70px;
-    z-index: 1;
-}
-.ret2{
-    height: 150px;
-    width: 600px;
-    background-color: #d8cabc;
-    border-radius: 90px;
-    position: relative ;
-    top: -190px;
-    left: 149px;
-    z-index: 0;
-}
-.mword{
-    font-size: 30px;
-    text-align: center;
-    font-weight: bold;
-    font-family: jp;
-    padding-left: 40px;
-}
-.photo5{
-    position: relative;
-    left: -10px;
-    top: -8px;
-    z-index: 2;
 }
 .video{
     position: relative;
